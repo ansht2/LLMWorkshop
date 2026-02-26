@@ -1,0 +1,78 @@
+
+
+
+Aleksei Aksimentiev 
+
+
+
+
+
+ProfessorBardeen Faculty Scholar
+
+
+(217) 333-6495
+aksiment@illinois.edu
+263 Loomis Laboratory
+
+
+For More Information
+Research group website
+
+Education
+Ph.D. Chemistry, Institute of Physical Chemistry Polish Academy of Sciences, 1999
+
+
+BiographyProfessor Aksimentiev received his Ph.D in chemistry cum laude from the Institute of Physical Chemistry, Warsaw, Poland, in 1999, after completing a master's degree in particle physics at the Ivan Franko Lviv State University in his native Ukraine in 1996. 
+
+He received postdoctoral training at the Materials Science Laboratory R&D Center of Mitsui Chemicals, Tokyo, Japan, from 1999 to 2001, when he joined the Theoretical and Computational Biophysics Group at the University of Illinois as a postdoctoral research associate. He joined the Physics Department at Illinois as a faculty in 2005
+Research Statement
+Imagine assembling a few thousand marbles into a machine capable of transforming the energy of an electric field into mechanical torque at nearly 100% efficiency and lasting ten million cycles. Although marbles are not atoms, Nature has done exactly that, assembling carbon, oxygen, nitrogen, and hydrogen atoms into remarkable nanomachines. And while Nature took billions of years to transform primordial dirt into the molecular motors that power living cells, the atoms comprising present-day biomachines are no different from those found in common inorganic compounds, and they obey the same laws of physics that enable the machines's amazing properties. Understanding how the remarkable functionality of biological nanomachines comes about from the spatial arrangement of their atoms and using this knowledge to design synthetic systems that exceed in the performance of their biological counterparts is the focus of this group's research program.
+Nanopore systems for single molecule detection and manipulation
+Over the past years, nanopores in thin biological and synthetic membranes have emerged as a versatile new research tool for detection and manipulation of single biomolecules. In a typical setup, electric field is used to drive biomolecules through nanopores, producing electrical signals that can identify the chemical makeup of the transported molecules.  Recent experimental studies have shown great potential of nanopore systems for high-throughput real-time sequencing of DNA molecules.  Extensive experimental efforts are directed toward improving sequencing fidelity, which involves design and manufacturing of synthetic nanopore sensors based on graphene membranes.  Computer modeling, in particular all-atom MD simulations, have become a trusted partner in the development of nanoscale biomedical sensors, allowing one to visualize and quantify the nanoscale details of interactions between biomolecules and synthetic materials.  In the development of nanopore sequencing technology, this group permitted the visualization of the process of nanopore translocation and the prediction of signals that are to be used for sequencing DNA, such as ion currents. Examples of recent research projects in this area include simulations of DNA transport through graphene nanopores, engineering a biological nanopore MspA for real-time and ultra-low cost DNA sequencing and development of physical methods to slow DNA transport through solid-state nanopores.
+Molecular mechanics of DNA processing machinery
+DNA replication, packaging, and repair, which are among the most important cellular processes, are all facilitated and heavily regulated through DNA-protein interactions. Abnormal operations of protein motors that process information encoded in DNA are known causes of genetic and multifactorial deceases, cancer and are associated with aging. In collaborations with single-molecule experimentalists, this group develops computational models of exemplary protein-DNA systems to elucidate the molecular mechanisms of DNA processing machinery. The current research projects center around DNA replication. The demands of rapid but accurate duplication of a cell's genome require the cooperative operation of many proteins, which together form the replisome. Using available structural data, this group is building a computational model of the replisome that incorporates all essential components. Complementing DNA replication, DNA repair is crucial to survival of a biological organism. One of the most catastrophic forms of DNA damage is double-stranded DNA breakage, which is often repaired using, as a template, another DNA molecule of a similar nucleotide sequence. One of the projects in this area aims to determine the mechanism a cell uses to find such a similar-sequence template fragment on a very long DNA molecule. In eukaryotes, processing of information encoded in DNA is additionally complicated as DNA is wrapped around proteins into hierarchical structures. The projects in this area focus on mechanisms of remodeling DNA-protein structures and epigenetic regulation of such remodeling processes.
+The physics of DNA assemblies 
+Although a biological cell utilizes a myriad of proteins to copy, express, regulate, and repair the genetic information stored in DNA, the unique physical properties of a DNA molecule underlies its biological functions. Indeed, the properties of a DNA molecule can astonish experts across disciplines. A physicist finds it surprising that DNA, which is a highly negatively charged polymer, can form a well-ordered condensate through apparent inter-DNA attractions. A biologist is astonished by the fact that the cells utilize DNA condensation to store and protect their genetic information. Binding of multivalent cations, pressure of a packing motor or spooling action of histone proteins force DNA to form compact biological structures where steric, electrostatic and structural forces give rise to unique physical phenomena. Of course, the most famous form of DNA self-assembly is hybridization, where a pair of single DNA strands carrying DNA nucleobases of complementary sequences forms a DNA duplex. Add to this a bit of computing and lots of human ingenuity and complex three-dimensional structures known as DNA origami will emerge from a disordered solution of DNA fragments. This research thrust develops precise atomic-scale and coarse-grained models of biological and synthetic DNA systems and uses such models to characterize a variety of processes in such systems. The ongoing research projects focus on the physics of DNA packaging in bacteriophage capsids, micromechanics of DNA origami and kinetics of DNA self-assembly. 
+Synthetic molecular systems
+Miniature machines captivate human imagination. From a flight of a bee to a beating of a flagellum, the ability of tiny creatures to perform seemingly impossible tasks inspire us with awe. While scaling up in size human technology is relatively straightforward, scaling down the systems and mechanisms without loosing functionality, ultimately to the molecular scale, remains a major challenge.  The dominance of stochastic forces over gravity and inertia, surface effects over body forces, and granularity of conventional materials render application of macroscopic engineering principles at the nanoscale obsolete. While human efforts to engineer and build nanomachines have so far produced rather modest results, biology provides outstanding examples of what can be accomplished. This research thrust focuses on the development of synthetic analogs to landmark biomolecular machines such as autonomous nanoscale walkers, selective nanochannels gated by external stimuli, and membrane-bound energy conversion systems. 
+
+Post-Doctoral Research OpportunitiesWe are always looking for qualified and motivated individuals. Please e-mail your CV along with a short description of your current and future research interests.
+Graduate Research OpportunitiesSeveral research positions are available. Please e-mail to setup a meeting and discuss the possibilities. 
+Undergraduate Research OpportunitiesSeveral research positions are available immediately. Please e-mail to setup a meeting and discuss the possibilities. 
+
+Research Areas
+Biological Physics (theoretical)
+Biomolecular modeling
+Bionanotechnology
+Nanosensors
+
+
+Research Topics
+Computational and Systems Biology
+
+Selected Articles in Journals
+L. Yu, X. Kang, F. Li, B. Mehrafrooz, A. Makhamreh, A. Fallahi, J. C. Foster, A. Aksimentiev, M. Chen, M. Wanunu. Unidirectional Single-File Transport of Full-Length Proteins through a Nanopore.  Nat.  Biotechnol. (2023).  Cover
+C. Maffeo, L. Quednau, J. Wilson, and A. Aksimentiev. DNA Double Helix, a Tiny Electromotor. Nat. Nanotechnol. 18:3, 238-242 (2023).
+C. Kaikai, C. Adnan, S. E. Sandler, C. Maffeo, C. Ducati, A. Aksimentiev, and U. F. Keyser. Super-Resolution Detection of DNA Nanostructures Using a Nanopore. Advanced Mater. 35:1223, 2207434 (2023).
+D. Winogradoff, H.-Y. Chou, C. Maffeo, and A.i Aksimentiev. Percolation Transition Prescribes Protein Size-Specific Barrier to Passive Transport through the Nuclear Pore Complex. Nat. Commun. 13:1, 5138 (2022).  
+H. Brinkerhoff, A. S. W. Kang, J. Liu, A. Aksimentiev, C. Dekker. Multiple Re-reads of Single Proteins at Single-amino-acid Resolution Using Nanopores. Science 374, 1509-1513 (2021). 
+A. Roy, J. Shen, H. Joshi, W. Song, Y.-M. Tu, R. Ye, N. Li, C. Ren, M. Kumar, A. Aksimentiev, and H. Zeng. Foldamer-Based Ultrapermeable and Highly Selective Artificial Aquaporins that Exclude Protons. Nat. Nanotechnol. 16, 911–917 (2021).
+W. Yang, B. Radha, A. Choudhary, G. Mettela, Y. You, A. Geim, A. Aksimentiev, A. Keerthi, C. Dekker. Translocation of DNA through Ultrathin 2D-Nanoslits. Adv. Mater. 33, 2007682 (2021).
+A. Choudhary, H. Joshi, H.-Y. Chou, K. Sarthak, J. Wilson, C. Maffeo and A. Aksimentiev. High-Fidelity Capture, Threading and Infinite-Depth Sequencing of Single DNA Molecules with a Double-Nanopore System. ACS Nano 14, 15566–15576 (2020).
+W. Song, H. Joshi, R. Chowdhury, J. S. Najem, Y.-x. Shen, C. Lang, C. B. Henderson, Y.-M. Tu, M. Farell, C. D. Maranas, P. S. Cremer, R. J. Hickey, S. A. Sarles, J.-l. Hou, A. Aksimentiev, and M. Kumar. Artificial Water Channels Enable Fast and Selective Water Permeation Through Water-wire Networks. Nat. Nanotechnol. 15, 73-79 (2020).
+H. Ouldali, K. Sarthak, T. Ensslen, F. Piguet, P. Manivet, J. Pelta, J. C. Behrends, A. Aksimentiev and A. Oukhaled. Electrical Recognition of the Twenty Proteinogenic Amino Acids Using Aerolysin Nanopore. Nat. Biotech. 38, 176-181 (2020).
+A. Singharoy, C. Maffeo, K.H. Delgado-Magnero, D. J. K. Swainsbury, M.Sener, U. Kleinekathofer, B. Isralewitz, I. Teo, D. Chandler, J. W. Vant, J. E. Stone, J. Phillips, T. V. Pogorelov, M. I. Mallus, C. Chipot, Z. Luthey-Schulten, P. Tieleman, C. N. Hunter, E. Tajkhorshid, A. Aksimentiev, K. Schulten. Atoms to Phenotypes: Molecular Design Principles of Cellular Energy Metabolism. Cell 179, 1098 - 1111 (2019).
+M. Shankla and A. Aksimentiev. Step-defect Guided Delivery of DNA to a Graphene Nanopore. Nat. Nanotechnol. 14, 858 - 865 (2019).
+J. Wilson and A. Aksimentiev. Water Compression Gating of Nanopore Transport. Phys. Rev. Lett. 120, 268101 (2018).
+A. Ohmann, C.-Y. Li, C. Maffeo, K. Al-Nahas, K. N. Baumann, U. F. Keyser and A. Aksimentiev. A Synthetic Enzyme Built from DNA Flips 107 llipids per Second in Biological Membranes. Nat. Commun. 9, 2426 (2018).
+
+
+Honors
+Dean's Award for Excellence in Research (2015)
+Blue Waters Professorship (2014)
+NSF CAREER Award (2010)
+Beckman Fellow, Center for Advanced Studies (2009-2010)
+IBM Faculty Fellow Award (2008)
+
+Recent Courses TaughtPHYS 101 - College Physics: Mech & Heat
+

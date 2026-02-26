@@ -1,0 +1,109 @@
+
+
+
+ Adam Bates 
+
+
+
+
+
+Associate Professor
+
+
+(217) 300-4653
+batesa@illinois.edu
+4306 Siebel Center for Comp Sci
+
+
+For More Information
+Secure & Transparent Systems Laboratory
+adambates.org
+
+Education
+ Ph.D., Computer Science, University of Florida, 2016. 
+Thesis: "Designing and Leveraging Trustworthy Provenance-Aware Systems."
+Advisor: Kevin Butler
+ M.Sc, Computer Science, University of Oregon, 2012. Thesis: "Detecting Compute Cloud Co-residency with Network Flow Watermarking Techniques." Advisor: Kevin Butler
+ B.Sc., Computer Science, University of Maryland, 2006.
+
+Research Interests
+Threat Detection, Investigation, & Response
+Systems Security
+System Auditing, Data Provenance
+IoT/Mobile Security & Privacy
+Network & Communications Security
+
+
+Research Areas
+Operating Systems
+Security and Privacy
+
+
+Articles in Conference Proceedings
+Mahmood Sharif, Pubali Datta, Andy Riddle, Kim Westfall, Adam Bates, Vijay Ganti, Matthew Lentz, and David Ott. "DrSec: Flexible Distributed Representations for Efficient Endpoint Security." 45th IEEE Symposium on Security and Privacy (Oakland'24). San Francisco, CA, USA. May 20, 2024. (acceptance rate=17.8%)
+Akul Goyal, Gang Wang, and Adam Bates. "R-CAID: Embedding Root Cause Analysis within Provenance-based Intrusion Detection." 45th IEEE Symposium on Security and Privacy (Oakland'24). San Francisco, CA, USA. May 20, 2024. (acceptance rate=17.8%)
+Yi-Shyuan Chiang, Omar Khan, Adam Bates, and Camille Cobb. "More than just informed: The importance of consent facets in smart homes." ACM CHI Conference on Human Factors in Computing Systems. Honolulu, HI, USA. May 11, 2024. (acceptance rate=26.3%)
+Phoebe Moh, Pubali Datta, Noel Warford, Adam Bates, Nathan Malkin, and Michelle L. Mazurek. "Characterizing Everyday Misuse of Smart Home Devices." 44th IEEE Symposium on Security and Privacy (Oakland'23). San Francisco, CA, USA. May 22, 2023. (acceptance rate=17.1%)
+Muhammad Adil Inam, Yinfang Chen, Akul Goyal, Jason Liu, Jaron Mink, Noor Michael, Sneha Gaur, Adam Bates, and Wajih Ul Hassan. "SoK: History is a Vast Early Warning System: Auditing the Provenance of System Intrusions." 44th IEEE Symposium on Security and Privacy (Oakland'23). San Francisco, CA, USA. May 22, 2023. (acceptance rate=17.1%)
+Akul Goyal, Xueyuan Han, Gang Wang, and Adam Bates. "Sometimes, You Aren't What You Do: Mimicry Attacks against Provenance Graph Host Intrusion Detection Systems." 30th ISOC Network and Distributed System Security Symposium (NDSS'23). San Diego, CA, USA. February 27, 2023. (acceptance rate=16.4%)
+Muhammad Adil Inam, Akul Goyal, Jason Liu, Jaron Mink, Noor Michael, Sneha Gaur, Adam Bates, and Wajih Ul Hassan. "FAuST: Striking a Bargain between Forensic Auditing's Security and Throughput." 38th Annual Computer Security Applications Conference (ACSAC'22). Austin, TX, USA. December 5, 2022. (acceptance rate=25.3%)
+Ayoosh Bansal, Anant Kandikuppa, Chien-Ying Chen, Monowar Hasan, Adam Bates and Sibin Mohan. "Towards Efficient Auditing for Real-Time Systems." 27th European Symposium on Research in Computer Security (ESORICS'22). Copenhagen, Denmark. September 26, 2022. (acceptance rate=18.5%)
+Joshua Reynolds, Adam Bates and Michael Bailey. "Equivocal URLs: Understanding the Fragmented Space of URL Parser Implementations." 27th European Symposium on Research in Computer Security (ESORICS'22). Copenhagen, Denmark. September 26, 2022. (acceptance rate=18.5%)
+Jason Liu, Anant Kandikuppa, and Adam Bates. "Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained Decentralized Information Flow Control." 7th IEEE European Symposium on Security and Privacy (EuroSP'22). Genoa, Italy. June 6, 2022. (acceptance rate=29.8%)
+Pubali Datta, Isaac Polinsky, Muhammad Adil Inam, Adam Bates, and Will Enck. 
+"ALASTOR: Reconstructing the Provenance of Serverless Intrusions." 
+31st USENIX Security Symposium (Security'22). 
+Boston, MA, USA. August 10, 2022.
+Jaron Mink, Amanda Rose Yuile, Uma Pal, Adam Aviv, and Adam Bates.
+"Users Can Deduce Sensitive Locations Protected by Privacy Zones on Fitness Tracking Apps."
+ACM CHI Conference on Human Factors in Computing Systems (CHI'22). New Orleans, LA, USA. April 30, 2022
+(acceptance rate= 24.6%)
+Muhammad Adil Inam, Wajih Ul Hassan, Ali Ahad, Adam Bates, Rashid Tahir, Tianyin Xu, and Fareed Zaffar.
+"Forensic Analysis of Configuration-based Attacks."
+29th ISOC Network and Distributed System Security Symposium (NDSS'22). San Diego, CA, USA. February 27, 2022.
+(acceptance rate=16.2%)
+Carter Yagemann, Mohammad Noureddine, Wajih Ul Hassan, Simon Chung, Adam Bates, and Wenke Lee. "Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks."
+28th ACM Conference on Computer and Communications Security (CCS'21). 15 Pages. Seoul, South Korea. November 15, 2021. 
+(acceptance rate=22.3%)
+Nick Roessler, Lucas Atayde, Imani Palmer, Derrick McKee, Jai Pandey, Vasileios P. Kemerlis, Mathias Payer, Adam Bates, Jonathan M. Smith, Andre DeHon, and Nathan Dautenhahn.
+muSCOPE: A Methodology for Analyzing Least-Privilege Compartmentalization in Large Software Artifacts.
+24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID'21). Donostia / San Sebastian, Spain. October 6, 2021. 
+Benjamin E. Ujcich, Samuel Jero, Richard Skowyra, Adam Bates, William H. Sanders, and Hamed Okhravi. "Causal Analysis for Software-Defined Networking Attacks." 30th USENIX Security Symposium (Security'21). Pages 3183--3200. August 13, 2021. (acceptance rate = 18.8%)
+Isaac Polinsky, Pubali Datta, Adam Bates, and Will Enck. "SCIFFS: Enabling Secure Third-Party Security Analytics using Serverless Computing." ACM Symposium on Access Control Models and Technologies (SACMAT'21). Pages 175–-186. June 18, 2021. (acceptance rate=28.6%)
+
+Wajih Ul Hassan, Ding Li, Kangkook Jee, Xiao Yu, Kexuan (Klaus) Zou, Dawei Wang, Zhengzhang Chen, Zhichun Li, Junghwan Rhee, Jiaping Gui, and Adam Bates. "This is Why We Can't Cache Nice Things: Lightning-Fast Threat Hunting using Suspicion-Based Hierarchical Storage." 36th Annual Computer Security Applications Conference (ACSAC'20). Pages 165–-178. December 7, 2020. (acceptance rate = 23.2%)
+Noor Michael, Jaron Mink, Jason Liu, Sneha Gaur, Wajih Ul Hassan, and Adam Bates. "On the Forensic Validity of Approximated Audit Logs."  36th Annual Computer Security Applications Conference  (ACSAC'20). Pages 189–-202. December 7, 2020. (acceptance rate = 23.2%)
+Arnav Sankaran, Pubali Datta, and Adam Bates. "Workflow Integration Alleviates Identity and Access Management in Serverless Computing." 36th Annual Computer Security Applications Conference  (ACSAC'20). Pages 496–-509. December 7, 2020. (acceptance rate = 23.2%)
+Riccardo Paccagnella, Kevin Liao, Dave (Jing) Tian, and Adam Bates. "Logging to the Danger Zone: Race Condition Attacks and Defenses on System Audit Frameworks." 27th ACM Conference on Computer and Communications Security (CCS'20). Pages 1551–-1574. November 9, 2020. (acceptance rate = 16.9%)
+Benjamin E. Ujcich, Adam Bates, and William H. Sanders. "Provenance for Intent-Based Networking." 2020 IEEE Conference on Network Softwarization (NetSoft '20). Pages 195--199. Ghent, Belgium. June 29, 2020. (acceptance rate = 20.0%)
+Wajih Ul Hassan, Adam Bates, and Daniel Marino. "Tactical Provenance Analysis for Endpoint Detection and Response Systems." 41st IEEE Symposium on Security and Privacy (Oakland'20). Pages 1172--1189. San Francisco, CA, USA. May 18, 2020. (acceptance rate = 12.3%)
+Pubali Datta, Prabuddha Kumar, Amir Rahmati, and Adam Bates. "Valve: Securing Function Workfows on Serverless Computing Platforms." The Web Conference (WWW'20). Pages 939–-950. Taipei, Taiwan. April 20, 2020. (acceptance rate=19.2%)
+
+Wajih Ul Hassan, Mohammad Ali Noureddine, Pubali Datta, and Adam Bates. "OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis." 27th ISOC Network and Distributed System Security Symposium (NDSS'20). 16 Pages. San Diego, CA, USA. February 25, 2020. (acceptance rate=17.4%) 
+Riccardo Paccagnella, Pubali Datta, Wajih Ul Hassan, Adam Bates, Christopher Fletcher, Andrew Miller, and Dave Tian. "CUSTOS: Practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution." 27th ISOC Network and Distributed System Security Symposium (NDSS'20). 18 Pages. San Diego, CA, USA. February 25, 2020. (acceptance rate=17.4%) 
+Xueyuan Han, Thomas Pasquier, Adam Bates, James Mickens, and Margo Seltzer. "UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats." 27th ISOC Network and Distributed System Security Symposium (NDSS'20). 18 Pages. San Diego, CA, USA. February 25, 2020. (acceptance rate=17.4%)
+
+Benjamin E. Ujcich, Samuel Jero, Richard Skowyra, Steven R. Gomez, Adam Bates, William H. Sanders, and Hamed Okhravi. "Automated Discovery of Cross-Plane Event-Based Vulnerabilities in Software-Defined Networking." 27th ISOC Network and Distributed System Security Symposium (NDSS'20). 18 Pages. San Diego, CA, USA. February 24, 2020. (acceptance rate=17.4%) 
+Qi Wang, Pubali Datta, Wei Yang, Si Liu, Carl Gunter, and Adam Bates. "Charting the Attack Surface of Trigger-Action IoT Platforms." 26th ACM Conference on Computer and Communications Security (CCS'19). Pages 1439–-1453. London, UK. November 11, 2019. (acceptance rate=16.2%)
+Wajih Ul Hassan, Shengjian Guo, Ding Li, Zhengzhang Chen, Kangkook Jee, Zhichun Li, and Adam Bates. "NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage." 26th ISOC Network and Distributed System Security Symposium (NDSS'19). 15 Pages. San Diego, CA, USA. February 24, 2019.  (acceptance rate=17.1%)
+Benjamin E. Ujcich, Samuel Jero, Anne Edmundson, Qi Wang, Richard Skowyra, James Landry, Adam Bates, Willam H. Sanders, Christina Rita-Notaru, and Hamed Okravi. "Cross-App Poisoning in Software-Defined Networking."  25th ACM Conference on Computer and Communications Security (CCS'18). Pages 648–-663. Toronto, Ontario, Canada. October 15, 2018.  (acceptance rate=16.6%) 
+Thomas Pasquier, Xueyuan Han, Thomas Moyer, Adam Bates, Olivier Hermant, David Eyers, Jean Bacon, and Margo Seltzer. "Runtime Analysis of Whole-System Provenance." 25th ACM Conference on Computer and Communications Security (CCS'18). Pages 1601–-1616. Toronto, Ontario, Canada. October 15, 2018. (Acceptance Rate=16.6%) 
+Wajih Ul Hassan, Saad Hussain, and Adam Bates. "Analysis of Privacy Protections in Fitness Tracking Social Networks -or- You can run, but can you hide?." 27th USENIX Security Symposium (Security'18). Pages 497--512. Baltimore, MD, USA. August 16, 2018. (acceptance rate=19.1%) 
+Deepak Kumar, Riccardo Paccagnella, Paul Murley, Eric Hennenfent, Joshua Mason, Adam Bates, Michael Bailey. “Skill Squatting Attacks on Amazon Alexa”. 27th USENIX Security Symposium (Security’18). Pages 33--47. Baltimore, MD, USA. August 15-17, 2018. (Acceptance rate=19.1%.)
+Tianyuan Liu, Avesta Hojjati, Adam Bates and Klara Nahrstedt. “AliDrone: Enabling Trust-worthy Proof-of-Alibi for Commercial Drone Compliance”. 38th IEEE International Conference on Distributed Computing Systems (ICDCS’18). Pages 841-852. Vienna, Austria. July 2-6,2018. (Acceptance rate=20.0%.)
+Dave (Jing) Tian, Nolen Scaife, Deepak Kumar, Michael Bailey, Adam Bates, and Kevin R. B. Butler. “SoK: ’Plug & Pray’ Today – Understanding USB Insecurity in Versions 1 through C”. 39th IEEE Symposium on Security and Privacy (Oakland’18). Pages 1032-1047. San Francisco, CA, USA. May 23, 2018. (Acceptance rate=11.5%.)
+Wajih Ul Hassan, Mark Lemay, Nuraini Aguse, Adam Bates, and Thomas Moyer. “Towards Scalable Cluster Auditing through Grammatical Inference over Provenance Graphs”. 25th ISOC Network and Distributed System Security Symposium (NDSS’18). 15 Pages. San Diego, CA, USA. Feb 17, 2018. (Acceptance rate=21.0%.)
+Qi Wang, Wajih Ul Hassan, Adam Bates, and Carl Gunter. "Fear and Logging in the Internet of Things." 25th ISOC Network and Distributed System Security Symposium (NDSS'18).  16 Pages San Diego, CA, USA. February 17, 2018.  San Diego, CA, USA. February 17, 2018. (acceptance rate=21.0%) 
+Benjamin E. Ujcich, Andrew Miller, Adam Bates, and William H. Sanders. "Towards an Accountable Software-Defined Networking Architecture." 3rd IEEE Conference on Network Softwarization. Pages 1--5. Bologna, Italy. July 4, 2017. (acceptance rate=20.0%) 
+Adam Bates, Wajih Ul Hassan, Kevin Butler, Alin Dobra, Bradley Reaves, Patrick Cable, Thomas Moyer,and Nabil Schear. "Transparent Web Service Auditing via Network Provenance Functions." 26th World Wide Web Conference (WWW'17). Pages 887–-895. Perth, Australia. April 6, 2017.  (acceptance rate=17.0%) 
+
+Research Honors
+ACM SIGSAC Doctoral Dissertation Award Runner-Up (11/02/2017)
+
+Recent Courses TaughtCS 423 (CSE 423) - Operating Systems Design
+CS 461 (ECE 422) - Computer Security I
+CS 563 (ECE 524) - Advanced Computer Security
+CS 591 SP - Security and Privacy
+CS 598 AB - Endpt Threat Detect. & Invest.
+CS 598 OSS - Operating System Security
+

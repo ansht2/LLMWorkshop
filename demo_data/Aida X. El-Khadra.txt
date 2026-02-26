@@ -1,0 +1,123 @@
+
+
+
+Aida X El-Khadra 
+
+
+
+
+
+Professor
+
+
+(217) 333-5026
+axk@illinois.edu
+429 Loomis Laboratory
+
+
+BiographyProfessor Aida El-Khadra received her PhD in 1989 from the University of California, Los Angeles after obtaining a Diplom in Physics from the Freie Universität, Berlin, Germany. She held postdoctoral research appointments at Brookhaven National Laboratory, Fermi National Accelerator Laboratory, and the Ohio State Univerity before joining the Illinois faculty in 1995. El-Khadra is a fellow of the American Association for the Advancement of Science, the American Physical Society, and a recipient of a Simons Fellowship in Theoretical Physics, a Fermilab Distinguished Scholar appointment, a Sloan Foundation Research Fellowship, and a Department of Energy Outstanding Junior Investigator Award, in addition to a number of other research and teaching honors. She currently chairs the Steering Committee of the Muon g-2 Theory Initiative. She is a member of the Particle Data Group and served as convener of the Theory Frontier for the 2021 Snowmass process, the particle physics community’s long-term planning exercise, which was organized by the APS Division of Particles and Fields (DPF) and concluded in 2022. Other recent service highlights include the Editorial Board of Physical Review D, chair of the selection committee for the Kenneth G. Wilson Lattice Award for Excellence in Lattice Field Theory, the DPF executive committee, APS fellowship committees, chair of the USQCD Scientific Program Committee and member of the USQCD Executive Committee, as well as organizing and advisory committees for international workshops and conferences.
+Prof. El-Khadra's area of research is theoretical particle physics. She works on the development of lattice field theory as a precision tool to quantify the nonperturbative effects of Quantum Chromodynamics (also known as the strong interactions) needed for the interpretation of measurements in high energy experiments. Her lattice QCD research includes a broad program calculations, which enable precision tests of the Standard Model or determinations of its fundamental parameters. A recent focus is on the hadronic corrections to the anomalous magnetic moment of the muon. Select highlights include semileptonic D- and Ds-meson form factors that yield the most precise determinations of the associated CKM matrix elements, |Vcs| and |Vcd| to date; the first lattice-QCD calculation of the semileptonic form factors for the B to D* transition at nonzero recoil momenta; precise predictions of the B, Bs, D , and Ds  meson decay constants; the semileptonic Kaon form factor improving upon our knowledge of the CKM matrix element |Vus|; the complete set of semileptonic form factors for B-meson decays to pions, and kaons, yielding new interesting constraints on models of new physics; the complete set of the neutral B and Bs meson mixing matrix elements, yielding constraints on |Vtd|, |Vts|, and their ratio; the first precise calculation of the strong isospin breaking corrections to the hadronic vacuum polarization contribution to the muon 's anomalous magnetic moment. Earlier work includes the development of a theoretical framework for lattice actions of heavy quarks that is the foundation of many important, phenomenologically relevant lattice calculations as well as the first quantitative determination of the strong coupling from lattice QCD. A new research direction is the development of quantum simulations and computations to study novel quantum field theories relevant to high energy physics. 
+Academic Positions
+Professor, UIUC, August 2008-present
+Associate Professor, UIUC, May 2001-August 2008
+Assistant Professor, UIUC, August 1995-May 2001
+
+
+Research Areas
+High Energy Physics (theoretical)
+Quantum Information Science
+
+
+Chapters in Books
+A.X. El-Khadra. QCD on the lattice: The central role of effective field theory. in Journeys through the precision frontier: amplitudes for colliders (L. Dixon and F. Petriello, editors). Proceedings of the 2014 Theoretical Advanced Study Institute in Elementary Particle Physics (Boulder, CO, 2-27 June 2014) World Scientific Publishing Co (2016).  ISBN: 978-981-4678-75-9. 
+A. X. El-Khadra and M. Luke. The mass of the b quark [Review]. Ann. Rev. Nucl. & Particle Sci. 52, 201-250 (2002)
+
+Selected Articles in Journals
+S. Navas et al. [Particle Data Group]. Review of particle physics. Phys.Rev.D 110 (2024) 3, 030001. 
+A. Bazavov et al. [Fermilab Lattice, HPQCD, and MILC Collaborations]. Light-quark connected intermediate-window contributions to the muon g-2 hadronic vacuum polarization from lattice QCD. Phys. Rev. D 107, 114514 (2023). 
+A. Bazavov et al. [Fermilab Lattice and MILC Collaborations]. D-meson semileptonic decays to pseudoscalars from four-flavor lattice QCD. Phys. Rev. D 107, 094516 (2023). 
+J. Shen, P. Draper, A.X. El-Khadra. Vacuum Decay and Euclidean Lattice Monte Carlo. Phys. Rev. D 107, 094506 (2023).
+C. W. Bauer, Z. Davoudi, et al. Quantum Simulation for High Energy Physics. PRX Quantum 4, 027001 (2023). 
+A. Bazavov, et al. (Fermilab Lattice and MILC Collaborations). Semileptonic form factors for B → D*ℓ nu at nonzero recoil from 2 + 1-flavor lattice QCD. Europhys. J. C 82, 1141 (2022) Correction: Europhys. J. C 83:1, 21 (2023).
+
+G. Colangelo, A.X. El-Khadra, M. Hoferichter, A. Keshavarzi, C. Lehner, P. Stoffer, T. Teubner. Data-driven evaluations of Euclidean windows to scrutinize hadronic vacuum polarization. Phys. Lett. B 833, 137313 (2022).
+R.L. Workman et al. (Particle Data Group). Review of Particle Physics. Prog. Theor. Exp. Phys. 2022, 083C01 (2022). 
+
+J. Shen, D. Luo, C. Huang, B.K. Clark, A.X. El-Khadra, B. Gadway, P. Draper. Simulating Quantum Mechanics with a θ-term and an 't Hooft Anomaly on a Synthetic Dimension. Phys. Rev. D 105, 074505 (2022).
+
+C.T.H. Davies, et al. Windows on the hadronic vacuum polarization contribution to the muon anomalous magnetic moment. Phys. Rev. D 106, 074509 (2022).
+
+T. Aoyama, A. X. El-Khadra, et al. The anomalous magnetic moment of the muon in the Standard Model. Phys. Reports.-review section of Phys. Lett. 887, 1-166 (2020).
+
+P. Gambino, A. S. Kronfeld, M. Rotondo, C. Schwanda, F. Bernlochner, A. Bharucha, C. Bozzi, M. Calvi, L. Cao, G. Ciezarek, C. T. H. Davies, A. X. El-Khadra, S. Hashimoto, M. Jung, A. Khodjamirian, Z. Ligeti. Challenges in semileptonic B decays. Eur. Phys. J. C 80:10, 966 (2020).
+D. Luo, J. Y. Shen, M. Highman, B. K. Clark, B. DeMarco, A. X. El-Khadra, B. Gadway. Framework for simulating gauge theories with dipolar spin systems. Phys. Rev. A 102, 032617 (2020) 
+C. T. H. Davies et al. [Fermilab Lattice, LATTICE-HPQCD and MILC Collaborations]. Hadronic-vacuum-polarization contribution to the muon's anomalous magnetic moment from four-flavor lattice QCD, Phys. Rev. D101, 034512 (2020).
+C. Lehner et al. [USQCD Collaboration]. Opportunities for Lattice QCD in Quark and Lepton Flavor Physics, Eur. Phys. J. A55:11, 195 (2019). 
+A. Bazavov et al. [Fermilab Lattice and MILC Collaborations]. Bs→Kℓν decay from lattice QCD. Phys. Rev. D 100, 034501 (2019).
+
+A. Bazavov, et al. [Fermilab Lattice and MILC Collaborations] |Vus| from Kℓ​​3 decay and four-flavor lattice QCD. Phys. Rev. D 99, 114509 (2019).
+
+A. Bazavov, et al.).  [Fermilab Lattice and MILC and TUMQCD Collaborations]. Up-, down-, strange-, charm-, and bottom-quark masses from four-flavor lattice QCD .  Phys. Rev. D 98, 054517 (2018).
+A. Bazavov, et al. B- and D-meson leptonic decay constants from four-flavor lattice QCD et al.. Dec 26, 2017. Phys.Rev. D 98, 074512 (2018).
+
+B. Chakraborty, et al. [Fermilab Lattice, MILC, and HPQCD Collaborations]. Strong-isospin-breaking correction to the muon anomalous magnetic moment from lattice QCD at the physical point. Phys .Rev. Lett. 120, 152001 (2018). 
+A. Bazavov, et al. [Fermilab Lattice and MILC Collaborations]. Short-distance matrix elements for D0-meson mixing for Nf=2+1 lattice QCD. Phys. Rev. D97, 034513 (2018).
+
+A. Bazavov, et al. [Fermilab Lattice and MILC Collaborations]. B0(s)-mixing matrix elements from lattice QCD for the Standard Model and beyond. Phys. Rev. D 93, 113016 (2016).
+
+Daping Du, A.X. El-Khadra, Steven Gottlieb, A.S. Kronfeld, J. Laiho, E. Lunghi, R.S. Van de Water, Ran Zhou. Phenomenology of Semileptonic B-Meson Decays with Form Factors from Lattice QCD.  Phys. Rev. D 93, 034005 (2016). 
+J.A. Bailey  et al. B -> Kl+l- decay form factors from three-flavor lattice QCD.  Phys. Rev. D 93, 025026 (2016).  
+J.A. Bailey, et al. B →πll Form Factors for New-Physics Searches from Lattice QCD. Phys. Rev. Lett. 115, 152002 (2015).
+
+J.A. Bailey  et al. |Vub| from B -> pi decays and (2+1)-flavor lattice QCD. Phys. Rev. D 92, 014024  (2015). 
+J. Bailey et al. The B → Dlv form factors at nonzero recoil and |Vcb| from 2+1-flavor lattice QCD. Phys.Rev. D92, 034506 (2015).
+
+A. Bazavov et al. Charmed and light pseudoscalar meson decay constants from four-flavor lattice QCD with physical light quarks. Phys. Rev. D 90, 074509 (2014).  
+J. Bailey, et al. Update of |Vcb| from the B → D*lnu-bar form factor at zero recoil with three-flavor lattice QCD. Phys. Rev. D 89, 114504 (2014).
+
+A. Bazavov, et al. Determination of |Vus| from a lattice-QCD calculation of the K -> pi l nu semileptonic form factor with physical quark masses. Phys. Rev. Lett. 112, 112001 (2014).
+S. Aoki, et al. Review of lattice results concerning low energy particle physics.  Eur. Phys. J. C74, 2890 (2014). 
+A. Bazavov, et al. Neutral B-meson mixing from three-flavor lattice QCD: Determination of the SU(3)-breaking ratio xi. Phys. Rev. D 86, 034503 (2012).
+C. Bernard, et al. The Anti-B→D* ℓ anti-ν form factor at zero recoil from three-flavor lattice QCD: A Model independent determination of |Vcb|. Phys. Rev. D 79, 014506 (2009).
+
+C. Aubin, et al. Semileptonic decays of D mesons in three-flavor lattice QCD. Phys. Rev. Lett. 94, 011601-1-5 (2005).
+C. T. H. Davies, et al. High-precision lattice QCD confronts experiment. Phys. Rev. Lett. 92, 022001-1-5 (2004).
+A. X. El-Khadra, A. Kronfeld, and P. Mackenzie. Massive quarks in lattice QCD. Phys. Rev. D 3933-3957 (1997).
+
+Articles in Conference Proceedings
+A. Kronfeld et al. Lattice QCD and Particle Physics. Snowmass 2022 White Paper. arXiv:2207.07641. Contribution to 2022 Snowmass Summer Study. 
+P. Boyle et al. A lattice QCD perspective on weak decays of b and c quarks. Snowmass 2022 White Paper. arXiv: 2205.15373 [hep-lat]. Contribution to 2022 Snowmass Summer Study.
+
+G. Colangelo, M. Davier, A.X. El-Khadra, M. Hoferichter, C. Lehner  et al. Prospects for precise predictions of $a_\mu$ in the Standard Model. arXiv:2203.15810 [hep-ph]. Contribution to 2022 Snowmass Summer Study. 
+
+Reports
+Joel N. Butler et al. Report of the 2021 U.S. Community Study on the Future of Particle Physics (Snowmass 2021). 
+Joel N. Butler et al. Report of the 2021 U.S. Community Study on the Future of Particle Physics (Snowmass 2021) Summary Chapter. e-Print: 2301.06581 [hep-ex]. 
+N. Craig, C. Csáki, A.X. El-Khadra,  et al. Snowmass Theory Frontier Report. e-Print: 2211.05772 [hep-ph].
+Z. Davoudi, E. T. Neil, et al. "Report of the Snowmass 2021 Topical Group on Lattice Gauge Theory,"
+[arXiv:2209.10758 [hep-lat]].
+
+Teaching Honors
+Collins Award for Innovative Teaching, College of Engineering, University of Illinois (2002)
+
+Research Honors
+Simons Fellow in Theoretical Physics, Simons Foundation (2022)
+Fellow, American Association for the Advancement of Science (AAAS) (2021)
+Associate, Center for Advanced Study, University of Illinois (2019)
+Distinguished Scholar, Fermilab (2016)
+Fellow, American Physical Society (2011)
+Associate, Center for Advanced Study, University of Illinois (2007)
+Frontier Fellow, Fermilab (2002)
+Beckman Fellow, Center for Advanced Study, University of Illinois (1998)
+Xerox Award for Faculty Research, College of Engineering, University of Illinois (1998)
+Fellow, A. P. Sloan Foundation (1997)
+Outstanding Junior Investigator Award, Department of Energy (1996)
+Studienstiftung des Deutschen Volkes (1988)
+
+Recent Courses TaughtPHYS 123 - Physics Made Easy
+PHYS 211 - University Physics: Mechanics
+PHYS 213 - Univ Physics: Thermal Physics
+PHYS 214 - Univ Physics: Quantum Physics
+PHYS 470 - Subatomic Physics
+PHYS 575 - Particle Physics I
+

@@ -1,0 +1,223 @@
+
+
+
+Albert Valocchi 
+
+
+
+
+
+Professor Emeritus
+Abel Bliss Professor of Engineering
+
+
+(217) 333-3176
+valocchi@illinois.edu
+2024 Civil Eng Hydrosystems Lab
+
+
+For More Information
+Website
+
+Education
+Ph.D.,	Civil Engineering,	Stanford University,	1981
+M.S.,	Environmental Engineering,	Stanford University,	1976
+B.S.,	Environmental Systems Engineering,	Cornell University,	1975
+
+Biography
+
+
+Albert J. Valocchi received his B.S. in  Environmental Systems Engineering from Cornell University in 1975 and  did his graduate studies at Stanford University in the Department of  Civil Engineering, receiving his M.S. in  1976 and Ph.D. in 1981.  He has been on the faculty of the Department  of Civil and Environmental Engineering at the University of Illinois  since 1981, and currently holds the rank of Professor.  From 2004 to  2012 he was Associate Head and Director of Graduate  Studies.
+Dr. Valocchi teaches undergraduate and  graduate courses in water resources engineering, groundwater hydrology  and contaminant transport, groundwater modeling, and numerical  methods.
+Dr. Valocchi’s research focuses upon  mathematical modeling of pollutant fate and transport in porous media,  with applications to groundwater contamination and remediation.  He  specializes in the development  and application of models that couple physical, geochemical, and  microbiological processes over a wide range of spatial and temporal  scales.   Other recent research interests include geological  sequestration of carbon dioxide, parameter estimation, and uncertainty  quantification. He has over 110 refereed journal papers, 10 book  chapters, and is co-author of the book In Situ Bioremediation.
+Dr.  Valocchi is a member of the American Society of Civil Engineers, the  American Geophysical Union, the National Ground Water Association, the  Association of Environmental  Engineering and Science Professors, the Society for Industrial and  Applied Mathematics, the American Society for Engineering Education, and  Sigma Xi.  From 2003 to 2011 he was Editor-in-Chief for the Journal of Contaminant Hydrology and is currently Associate Editor for  Advances in Water Resources.  He has also served as a member of the National Research Council Committee on Environmental Remediation at Naval Facilities.
+ 
+Dr.  Valocchi has received several awards in recognition of his research and  teaching accomplishments.  He was a Shell Faculty Career  Fellow from 1984 to 1987, and he has been awarded fellowships to  lecture and conduct research from NATO and the Danish Research Academy.   In 2002 he received the Collins Award for Innovative Teaching from the  University of Illinois College of Engineering.   In 2003 he was recognized as an Associate in the Center for Advanced  Study at the University of Illinois.  In 2009 he became a Fellow of the  American Geophysical Union, an honor bestowed on no more than 0.1% of  society members.   In 2011, he was named an Abel  Bliss Professor in the College of Engineering at the University of  Illinois.  In 2013 he was received the Stanley H. Pierce Award from the  College of Engineering in recognition of his work toward enhancing the  graduate student experience. In 2015 he received  the Campus Award for Excellence in Graduate and Professional Teaching.
+
+
+
+Academic Positions
+Associate Head and Director of Graduate Studies, Dept. of Civil and Environmental Engineering, 2004-2011
+Professor of Civil and Environmental Engineering, University of Illinois, 1992-present
+Associate Professor of Civil and Environmental Engineering, University of Illinois, 1986-1992
+Assistant Professor of Civil Engineering, University of Illinois, 1981-1986
+
+Other Professional Activities
+Scientific Organizing Committee, XXI International Conference on Computational Methods in Water Resources (CMWR 2012), University of Toronto, June, 2016.
+Scientific Organizing Committee, Modflow and More Conference, Colorado School of Mines, May, 2015.
+
+Scientific Organizing Committee, XX International Conference on Computational Methods in Water Resources (CMWR 2012), University of Stuttgart, June, 2014.
+Invited Participant, Department of Energy, Office of Biologicanl and Environmental Research, Molecular Science Challenge Workshop, May 27-29, 2014.
+Invited Participant, NSF Workshop “Expanding the role of Reactive Transport Modeling (RTM) within the Biogeochemical Sciences,” Alexandria, VA, April 13-15, 2014.
+Board of Directors, Consortium of Universities for the Advancement of Hydrologic Science, Inc., (CUAHSI) 2014-2016.
+Invited Participant, Workshop on Pore-Scale Modeling of Multiphase Flow and Reactive Transport, Shell Global Solutions, Int., Netherlands, Jan 28-29, 2013.
+Chair, XIX International Conference on Computational Methods in Water Resources (CMWR 2012), University of Illinois, June 17-21, 2012.
+Member, Peer Review Team, Advance Simulation Capacity for Environmental Management (ASCEM), U.S. DOE Office of Environmental Management, August, 2011.
+
+Research StatementDr. Valocchi’s research focuses upon mathematical modeling of pollutant fate and transport in porous media, with applications to groundwater contamination and remediation. He specializes in the development and application of models that couple physical, geochemical, and microbiological processes over a wide range of spatial scales ranging from the pore scale (micrometers) to the field scale (kilometers).
+Research Interests
+Modeling the fate and transport of reactive contaminants in the subsurface environment; numerical methods; aquifer remediation; groundwater hydrology; mathematical modeling applications in environmental and hydrological sciences. 
+
+
+Research Areas
+Energy-Water-Environment Sustainability
+Environmental Engineering and Science
+Water Resources Engineering and Science
+
+
+Chapters in Books
+Yoon, H., Q. Kang, A.J. Valocchi, Lattice Boltzmann--Based Approaches for Pore--Scale Reactive
+Transport, pp. 393--431 in Pore--Scale Geochemical Processes, Reviews in Mineralogy & Geochemistry,
+v. 80, C. Steefel, S. Emmanuel, and L. Anovitz (eds.), 2015
+Valocchi, A.J., Hydrogeochemical Models, Chapter 4 in Delivery And Mixing In The Subsurface:Processes and Design Principles for In-Situ RemediationI, P.K. Kitanidis and P.L. McCarty, eds., DoD SERDP/ESTCP Monograph Series, Springer, 2012.
+	Demissie, Y., Valocchi, A., Minsker, B. & Bailey, B.,  Bias-Corrected Groundwater Model Prediction Uncertainty Analysis, In: ModelCARE2007 Calibration and Reliability in Groundwater Modeling: Credibility in Modeling, K. Kovar (Editor),  IAHS Publ. 320-3, 2008.
+Valocchi, A.J., P. Herrera and H. Viswanathan, Incorporating transverse mixing into streamline-based simulatin of transport in heterogeneous aquifers, pp. 294-304 in Groundwater Quality Modeling and Management Under Uncertainty, S. Misra, ed., American Society of Civil Engineers, 2003.
+	Simunek, J. and A.J. Valocchi, “Geochemical Transport,” Chap. 6.9 in Methods of Soil Analysis, Part 1, Physical Methods  (3rd ed), J. Dane and G. Topp (eds.), Soil Sci. Amer., Madison, WI, 2002.
+	Das, B., R. Govindaraju, G. Kluitenberg, A.J. Valocchi, and J.M. Wraith, Theory and applications of time moment analysis to study the fate of reactive solutes in soil, to appear in Stochastic Methods in Subsurface Contaminant Hydrology, R. Govindaraju (ed.), ASCE Press, 2002.
+Valocchi, A.J. and H.A.M. Quinodoz, “Impact of Small-Scale Variability Upon the Transport of Reactive Contaminants,” pp. 355-380, in Fate and Transport of Pollutants in Soils and Subsoils, D. Petruzzelli and F.G. Helfferich, eds., Springer Verlag, Berlin, 1993.
+
+Articles in Conference Proceedings
+Demissie, Y., Albert Valocchi, Ximing Cai, Nicholas Brozovic, Inverse Modeling for Estimating
+Parameters of Groundwater Models with Uncertain Forcing Data, CMWR2012: XIX International
+Conference on Computational Methods in Water Resources, University of Illinois, June 17--21,
+2012. http://cmwr2012.cee.illinois.edu
+Haihu Liu, Albert J. Valocchi, Pore-­‐scale
+simulations
+of
+gas
+displacing
+liquid
+in
+a
+pore
+network
+micromodel
+by
+the
+lattice
+Boltzmann
+method,XIX International Conference on Water Resources CMWR 2012 University of Illinois at Urbana-Champaign June 17-22,2012
+Tianfang
+Xu,
+Jaesik
+Choi,
+Albert
+Valocchi,
+Eyal
+Amir, Improving
+Groundwater
+Flow
+Model
+Prediction
+Using
+Complementary
+Data-­‐Driven
+Models,XIX International Conference on Water Resources CMWR 2012 University of Illinois at Urbana-Champaign June 17-22,2012
+Oscar Garcia-Cabrejo , Albert Valocchi, SENSITIVITY ANALYSIS IN NUMERICAL SIMULATION
+OF MULTIPHASE FLOW FOR CO2 STORAGE IN SALINE
+AQUIFERS USING THE PROBABILISTIC COLLOCATION
+APPROACH,XIX International Conference on Water Resources
+CMWR 2012
+University of Illinois at Urbana-Champaign
+June 17-22,2012  
+Oscar Garcia-Cabrejo , Albert Valocchi,APPLICATION OF FLUX CORRECTED TRANSPORT FOR
+MULTICOMPONENT REACTIVE TRANSPORT
+MODELING, IX International Conference on Water Resources
+CMWR 2012
+University of Illinois at Urbana-Champaign
+June 17-22,2012 
+A.J. Valocchi, Y. Demissie, and T. Xu,  Improving prediction of regional-scale groundwater flow models through exploratory data analysis and complementary modeling, Proceedings, MODFLOW and More 2011, Integrated Hydrologic Modeling, International Groundwater Modeling Center, June 5-8, 2011.
+K. Nakshatrala and A.J. Valocchi, A Multiscale Finite Element Framework For Reactive Contaminant Transport In Heterogeneous Porous Media,  IMECE2008-67395, Proceedings of ASME IMECE 2008 ASME Mechanical Engineering Congress and Exposition October 31 - November 6, 2008, Boston, USA.
+	Lin Y-F., J. Wang, and A. J. Valocchi, How to Estimate Groundwater Recharge and Discharge Maps in One Day: An ArcGIS 9.2 Application Development for Water Resources Research,  Arc-User,Vol. 11, No. 1, p.32 - 35, January - March, 2008.  http://www.esri.com/news/arcuser/0408/groundwater.html
+	Singh, A.,  D.D. Walker, B.S. Minsker, and A.J. Valocchi,Interactive Multi-Objective Inverse Groundwater Modelling--Incorporating Subjective Knowledge and Conceptual Uncertainty, In  World Water & Environmental Resources Congress 2007 & Related Symposia, Honolulu, HI. American Society of Civil Engineers (ASCE) Environmental & Water Resources Institute (EWRI), 2008
+	Singh, A.,  D.D. Walker, B.S. Minsker, and A.J. Valocchi,Interactive Multi-Objective Inverse Groundwater Modelling --Incorporating Subjective Knowledge and Conceptual Uncertainty, International Conference ModelCARE 2007, Calibration and Reliability in Groundwater Modeling,  Credibility of Modeling, Copenhagen, Denmark, Sept. 9-13, 2007.
+
+Magazine Articles
+Valocchi, A.J., Amir, E., "Water World," International Innovation, pp. 71-73, June, 2012.
+
+Professional Societies
+Member, ASCE Task Committee on Long-Term Groundwater Monitoring Design, 2001-2002.
+Illinois Groundwater Association
+Sigma Xi
+National Ground Water Association
+Society for Industrial and Applied Mathematics (SIAM)
+Association of Environmental Engineering and Science Professors
+American Society for Engineering Education
+American Society of Civil Engineers
+American Geophysical Union
+Member, AGU Hydrology Section Committee to evaluate nominations for AGU Fellows, 2010-
+Member, Pathfinder Evaluation Committee, CUAHSI, 2010-12
+CUAHSI, Consortium of Universities for the Advancement of Hydrologic Research, Inc.,Board of Directors, Chair Elect, 2014; Chair, 2015
+CUAHSI, Consortium of Universities for the Advancement of Hydrologic Research, Inc.,Campus Representative,  2008-
+
+Service on Department Committees
+Area Coordinator, Environmental Hydrology & Hydraulic Engineering
+Chair, Faculty Search Committee, 2015
+Equal Opportunity Officer, Dept. of Civil and Environmental Engineering, 2004-2010
+Chair, Curriculum Committee, Dept. of Civil and Environmental Engineering, 2006-2009
+Newmark Structural Engineering Laboratory, Director, 2004-2005.
+Director of Graduate Studies, Dept. of Civil and Environmental Engineering, 2004-2011
+Member, Committee on Faculty Progress, Promotion, and Tenure, Department of Civil and Environmental Engineering, 2005-2007.
+Chair, Graduate Affairs Committee, Dept. of Civil and Environmental Engineering, 2004-2011
+Chair, Faculty Search Committee, Hydrosystems, 2003
+Chair, Advisory Committee, Department of Civil and Environmental Engineering, 2000-2001
+
+Service on College Committees
+Chair, Ad-Hoc Committee on Naming Conventions for Masters Degrees, 2011
+SURGE Advisory Committee, UIUC College of Engineering, 2004-2011
+Member, Steering Committee, Computational Science and Engineering (CSE) Program, 2000-2003
+
+Service on Campus Committees
+Panel Member, "How Faculty Search Committees Operate," sponsored by the Graduate College, Jan. 2014
+
+Review Committee for Blue Waters Professors, 2013
+Member, Committee to Evaluate Block Grant Applications for Graduate College Fellowships
+Member, Senate Committee on Student Discipline, 2013-2015
+Faculty Senate Representative, 2013-2015
+Steering Committee Member, 2013 Ethics Awareness Week, National Center for Professional and Research Ethics
+Goldwater Scholarship Evaluation Committee, 2011
+Member, Committee on Assessment of Doctoral Program, Graduate College, 2010-2011
+Member, Graduate College Executive Committee, 2010-2012
+Member, Project Team "Graduate College," Stewarding Excellence @ Illinois, 2010
+
+
+Service to Federal and State Government
+Member, Peer Review Team, Advance Simulation Capacity for Environmental Management (ASCEM), U.S. DOE Office of Environmental Management, August, 2011.
+Chair, Committee to Review ASCEM (Advanced Scientific Computing for Environmental Management), U.S. DOE, Office of Environmental Management, Sept. 2010
+Member, U.S. DOE Biological and Environmental Research Advisory Committee, Committee of visitors to review the Environmental Remediation Science Division, Office of Biological and Environmental Research, Oct. 2004. 
+	National Engineering and Environmental Laboratory Subsurface Geosciences Laboratory, Feb. 2004.
+Member, Subcommittee of U.S. DOE Biological and Environmental Research Advisory Committee to review Idaho 
+Member, Technical Advisory Council, Illinois State Water Survey, Ground-Water Section, 1999-2001
+Member, Committee on Environmental Remediation at Naval Facilities, National Research Council, Water Science and Technology Board, 1997-2002
+
+Other Outside Service
+	Proposal Review, Strategic Environmental Research and Development Program (SERDP), U.S. Dept. of Defense, 2006-2007.
+External Ph.D. Examiner, Technical University of Denmark, May 2005.
+Member, Extramural Committee to Review the University of California-Irvine Undergraduate Program in Engineering, 1997
+
+Honors
+Excellence in Graduate and Professional Teaching Campus Award (2015)
+Chi Epsilon Honor Member, Department of Civil and Environmental Engineering, University of Illinois (2013)
+Stanley H. Pierce Faculty Award, College of Engineering (2013)
+Abel Bliss Professor (2011)
+
+Teaching Honors
+Appeared in Incomplete List of Excellent Teachers:  Spring 1984, Spring 1986, Spring 1996, Spring 2002, Fall 2011, Fall 2016, Spring 2017
+Collins Award for Innovative Teaching, UIUC College of Engineering (2002)
+
+Research Honors
+Fellow, American Geophysical Union (Elected 2009)
+Associate, Center for Advanced Study, University of Illinois 
+ (Spring 2004)
+Invited Lecturer, Transport and Biodegradation in Heterogeneous Groundwater Aquifers, Advanced School/Ph.D. Course, Danish Center for Applied Mathematics and Mechanics  (August, 2000)
+Invited Participant, Modeling and Management of Emerging Environmental Issues: Expert Workshop 2000, sponsored by DuPont  (July 2000)
+Workshop in Mathematics and the Geosciences, sponsored by the National Science Foundation and the University of Nebraska, Department of Mathematics and Statistics (March, 1999)
+Danish Research Academy Fellowship to support Visiting Professorship, Technical University of Denmark, Institute of Hydrodynamics and Hydraulic Engineering (April-September, 1993)
+Invited Lecturer and Scientific Committee Member, NATO Advanced Study Institute on “Migration and Fate of Pollutants in Soils and Subsoils,” Maratea, Italy (May 31-June 10, 1992)
+NATO Fellow and Invited Professor, Summer School on Environmental Dynamics, Venice, Italy (1990)
+Shell Faculty Career Fellow (1984-1987)
+
+Recent Courses TaughtCEE 350 - Water Resources Engineering
+CEE 457 - Groundwater
+CEE 557 - Groundwater Modeling
+

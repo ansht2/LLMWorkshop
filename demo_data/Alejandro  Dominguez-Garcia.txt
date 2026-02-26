@@ -1,0 +1,240 @@
+
+
+
+Alejandro Dominguez-Garcia 
+
+
+
+
+
+Professor
+M. Stanley Helm Professorship in Electrical and Computer Engineering
+
+
+(217) 333-3953
+aledan@illinois.edu
+4044 Electrical & Computer Eng Bldg
+
+
+For More Information
+Prof. Dominguez-Garcia's Home Page
+
+Education
+Ph.D. in Electrical Engineering and Computer Science, 
+MIT, 2007.
+
+Research Interests
+Microgrids
+Grid Data Analytics
+Reliability Analysis
+
+
+Research Areas
+Power and Energy Systems
+
+
+Research Topics
+Cyberinfrastructures
+Decision science
+Distributed computing and storage systems
+Energy
+Network science and engineering
+Smart grid and energy delivery
+Smart infrastructures
+Solar and renewable technology
+
+Chapters in Books
+T. Charalambous, A. D. Dominguez-Garcia, and C. N. Hadjicostis,  "Robustified Distributed Average Consensus," Encyclopedia of Systems and Control, to appear. 
+V. V. Veeravalli and A. D. Dominguez-Garcia, "Quickest Detection and Isolation of Transmission Line Outages," in Advanced Data Analytics for Power Systems,  S. Perlaza, H. V. Poor, and A. Tajer (Eds.), Cambridge University Press, Cambridge, 2020.
+O. O. Ajala, A. D. Domínguez-García, and P. W. Sauer, “A Hierarchy of Models for Inverter-Based Microgrids,” in Energy Markets and Responsive Grids: Modeling, Control and Optimization, S. Meyn, T. Samad, S. Glavaski, I. Hiskens, and J. Stoustrup (Eds.), Springer-Verlag, Berlin, 2017.
+S. V. Dhople, A. D. Domínguez-García, and P. T. Krein, “Stochastic Hybrid Systems Models for Performance and Reliability Evaluation of Power-electronic Systems,” in Reliability of Power Electronic Converter Systems, Henry Shu-hung Chung, Frede Blaabjerg, Huai Wang, and Michael Pecht (Eds.), The Institution of Engineering and Technology, 2015.	
+A. D. Dominguez-Garcia and C. N. Hadjicostis, "Coordination of Distributed Energy Resources for Provision of Ancillary Services: Architectures and Algorithms," in Encyclopedia of Systems and Control, J. Baillieul, and T. Samad (Eds.) Springer-Verlag, London, 2015.
+A.	C. N. Hadjicostis and A. D. Dominguez-Garcia, "Distributed Average Consensus in Digraphs," in C4CBook Coordination Control of Distributed Systems,  J. H. van Schuppen, and T. Villa (Eds.), Springer-Verlag, Berlin, 2014.
+A. D. Dominguez-Garcia, "Models for Impact Assessment of Wind-Based Power Generation on Frequency Control," in Control and Optimization Theory for Electric Smart Grids, Springer-Verlag, Berlin, 2011.
+
+Selected Articles in Journals
+C. N. Hadjicostis and A. D. Dominguez-Garcia,  "Trustworthy Distributed Average Consensus based on Locally Assessed Trust Evaluations," IEEE Transactions on Automatic Control, vol. 70, no. 1, pp. 371 – 386, January 2025.
+C. N. Hadjicostis and  A. D. Dominguez-Garcia, "Invariant Properties of Linear-Iterative Distributed Averaging Algorithms and Application to Error Detection," and European Journal of Control, vol. 80, Part A,
+101035, November 2024; and in Proc. of the European Control Conference, Stockholm, Sweden, June 2024.
+C. N. Hadjicostis and A. D. Dominguez-Garcia, "Identification of Malicious Activity in Distributed Average Consensus via Non-Concurrent Checking," IEEE Control Systems Letters, vol. 7, pp. 1927 –  1932, June 2023; and Proc. of the IEEE Control and Decision Conference, Marina Bay Sands, Singapore, December 2023.
+O. O. Ajala, N. Baeckeland, B. Johnson, S. Dhople, and A. D. Dominguez-Garcia, "Model Reduction and Dynamic Aggregation of Grid-forming Inverter Networks," IEEE Transactions on Power Systems, Accepted for Publication.
+M.Zholbaryssov, A. D. Dominguez-Garcia, and C. N. Hadjicostis, "Fast Distributed Coordination of Distributed Energy Resources over Time-Varying Communication Networks,” IEEE Transactions on Automatic Control, vol. 68, no. 2, pp. 1023 – 1038, February 2023.
+C. H. Hadjicostis, A. D. Dominguez-Garcia, A. Rikos, “Finite-Time Distributed Balancing,” IEEE Transactions on Automatic Control, vol. 67, no. 12, pp.  6926 – 6933, December 2022. 
+M. Zholbaryssov and A. D. Dominguez-Garcia, "Safe Data-Driven Secondary Control of Distributed Energy Resources," IEEE Transactions on Power Systems, vol. 36, no. 6, pp. 5933 – 5943, November 2021.
+C. N. Hadjicostis and A. D. Dominguez-Garcia, "Distributed Balancing under Flow Constraints over Arbitrary Communication Topologies," IEEE Transactions on Automatic Control, vol. 66, no. 12, pp. 5637 – 5650, December 2021.
+O. O. Ajala, A. D. Dominguez-Garcia, and D. M. Liberzon, "Robust leader-follower synchronization of electric power generators," Systems & Control Letters, vol. 152, pp. 13 – 21, June 2021.
+O. O. Ajala, A. D.  Dominguez-Garcia, P. W. Sauer, D. M. Liberzon, "A Library of Second-Order Models for Synchronous Machines," IEEE Transactions on Power Systems, vol. 35, no. 6, pp. 4803 â€“ 4814, November 2020. .
+S. Dhople, Y. C. Chen, A. Al-Digs, and A. D. Dominguez-Garcia, "Reexamining the Distributed Slack Bus," Ãƒâ€šÃ‚Â IEEE Transactions on Power Systems, vol. 35, no. 6, pp. 4870 â€“ 4879, November 2020.
+
+S. Nigam, O. Ajala and A. D. Dominguez-Garcia, "A Controller Hardware-in-the-Loop Testbed: Verification and Validation of Microgrid Control Architectures," in IEEE Electrification Magazine, vol. 8, no. 3, pp. 92-100, September 2020.
+C. N. Hadjicostis and A. D. Dominguez-Garcia,  "Privacy-Preserving Distributed Averaging via Homomorphically Encrypted Ratio Consensus,"  IEEE Transactions on Automatic Control, vol. 65, no. 9, pp. 3887 - 3894, September 2020. 
+H. Xu, A. D. Dominguez-Garcia, V. V. Veeravalli, and P. W. Sauer, "Data-driven Voltage Regulation in Radial Power Distribution Systems," EEE Transactions on Power Systems, vol. 7, no. 1, pp. 64 - 73, March 2020.
+H. Xu, A. D. Dominguez-Garcia, and P. W. Sauer, "Optimal Tap Setting of Voltage Regulation Transformers Using Batch Reinforcement Learning," IEEE Transactions on Power Systems, vol. 35, no. 3, pp. 1990 - 2001, May 2020. Best Papers Lists for papers published between 2018 and 2020.
+M. Zholbaryssov and A. D. Dominguez-Garcia, "Convex Relaxations of the Network Flow Problem Under Cycle Constraints," IEEE Transactions on Control of Network Systems, vol. 7, no. 1, pp. 64 - 73, March 2020
+H. Xu, A. D. Dominguez-Garcia, and P. W. Sauer, "Data-driven Coordination of Distributed Energy Resources for Active Power Provision," IEEE Transactions on Power Systems, vol. 34, no. 4, pp. 3047 - 3058, July 2019.
+D. Fooladivanda, A. D. Dominguez-Garcia, and P. W. Sauer, "Utilization of Water Supply Networks for Harvesting Renewable Energy," IEEE Transactions on Control of Network Systems, vol. 6, no. 2, pp. 763 - 774, June 2019.
+C. N. Hadjicostis, and A. D. Dominguez-Garcia,  "Distributed Balancing of Commodity Networks Under Flow Interval Constraints," IEEE Transactions on Automatic Control,  vol. 64, no. 1, pp. 51 - 65, January 2019.
+D. Fooladivanda, M. Zholbaryssov, and A. D. Dominguez-Garcia, "Control of Networked Distributed Energy Resources in Grid-Connected AC Microgrids," IEEE Transactions on Control of Network Systems, vol. 5, no. 4, pp. 1875 - 1886, December 2018.
+M. Zholbaryssov, Dariush Fooladivanda, and A. D. Dominguez-Garcia, "Resilient Distributed Op- timal Generation Dispatch for Lossy AC Microgrids," Systems & Control Letters, vol. 123, pp. 47 - 54, January 2019.
+D. Fooladivanda, H. Xu, A. D. Dominguez-Garcia, and S. Bose, "Offer Strategies for Wholesale Energy and Regulation Markets," IEEE Transactions on Power Systems, vol. 33, no. 9, pp. 7305 - 7308, November 2018.
+ C. N. Hadjicostis, A. D. Dominguez-Garcia, and T. Charalambous, "Distributed Averaging and Balancing in Network Systems with Applications to Coordination and Control,"  Foundations and Trends in Systems and Control, vol. 5, no. 2-3, pp. 99 - 292.
+J. Zhang, and A. D. Dominguez-Garcia, "Evaluation of Demand Response Resource Aggregation System Capacity Under Uncertainty," IEEE Transactions on Smart Grid, vol. 9, no. 3, pp. 1859 â€“ 1868, May 2018.
+M. Zholbaryssov, and A. D. Dominguez-Garcia, "Distributed Enforcement of Phase-Cohesiveness for Frequency Control of Islanded Inverter-Based Microgrids," IEEE Transactions on Control of Network Systems,  vol. 5, no. 3, pp. 1 - 11, September 2018.
+J. Zhang and A. D. Dominguez-Garcia, "On the Impact of Measurement Errors on Power System Automatic Generatiom Control," IEEE Transactions on Smart Grid, vol. 9, no. 3, pp. 1859 -1868, May 2018.
+S. T. Cady, M. Zholbaryssov, A. D. Dominguez-Garcia, C. N. Hadjicostis, "A Distributed Frequency Regulation Architecture for Islanded Inertia-Less AC Microgrids," IEEE Transactions on Control Systems Technology, vol. 25, no. 6, pp. 1961-1977, November 2017
+Y. C. Chen, S. Dhople, A. D. Dominguez-Garcia, and P. W. Sauer, "Generalized Injection Shift Journals Factors," IEEE Transactions on Smart Grid, vol. 8, no. 5, pp. 2071-2080, September 2017.
+G. Rovatsos, X. Jiang, A. D. Dominguez-Garcia, and V. V. Veeravalli, "Statistical Power System Line Outage Detection Under Transient Dynamics," IEEE Transactions on Signal Processing, vol. 65, no. 11, pp. 2787-2797, June 2017.
+J. T. Hughes, A. D. Dominguez-Garcia, and K. Poolla, "Identification of Virtual Battery Models for Flexible Loads,"  IEEE Transactions on Power Systems,  IEEE Transactions on Power Systems, vol. 31, no. 6, pp. 4660-4669, November 2016.
+D. Apostoloulou, A. D. Dominguez-Garcia, P. W. Sauer, "Balancing Authority Area Model and its Application to the Design of Adaptive AGC Systems," IEEE Transactions on Power Systems, vol. 31, no. 5, pp. 3756-3764, September 2016.
+B. Gharesifard, T. Basar, and A. D. Dominguez-Garcia,  "Price-Based Coordination of 
+Networked Distributed Energy Resources," IEEE Transactions on Automatic Control, vol. 61, no. 10, pp. 2936-2946, October 2016.
+Y. C. Chen, J. Wang, A. D. Dominguez-Garcia, P. W. Sauer, "Measurement-Based Estimation of the Power Flow Jacobian Matrix," IEEE Transactions on Smart Grid, vol. 7, no. 5, pp. 2507-2515, September 2016.
+K. E. Van Horn, A. D. Dominguez-Garcia, and P. W. Sauer, "Measurement-Based Real-Time Security-Constrained Economic Dispatch," IEEE Transactions on Power Systems, vol. 31, no. 5, pp. 3548-3560, September 2016.
+B. A. Robbins and A. D. Dominguez-Garcia, "Optimal Reactive Power Dispatch for Voltage Regulation in Unbalanced Distribution Systems," IEEE Transactions on Power Systems, vol. 31, no. 4, pp. 2903-2913, July 2016.
+D. Apostoloulou, A. D. Dominguez-Garcia, P. W. Sauer, "An Assessment of the Impact of Uncertainty on Automatic Generation Control Systems," IEEE Transactions on Power Systems, vol. 61, no. 4, pp. 2657-2665, July 2016
+C. N. Hadjicostis, N. H. Vaidya, and A. D. Dominguez-Garcia , "Robust Distributed Average Consensus via Exchange of Running Sums," submitted for publication, IEEE Transactions on Automatic Control, vol. 31, no. 6, pp. 1492-1507, June 2016. 
+L. DeVille, S. Dhople, A. D. Dominguez-Garcia, and J. Zhang, "Moment Closure and Finite-Time Blowup for Piecewise Deterministic Markov Processes,"Â SIAM Journal on Applied Dynamical Systems, vol. 15, no. 1, pp. 526-556, January 2016.
+Y. C. Chen, T. Banerjee, A. D. Dominguez-Garcia, and V. V. Veeravalli, 
+"Quickest Line Outage Detection and Identification," IEEE Transactions on Power Systems, vol. 31, no. 1, pp. 749-758, January 2016.
+
+ B. A. Robbins, H. Zhu, and A. D. D. Dominguez-Garcia, "Optimal Tap Setting of Voltage Regulation Transformers in Unbalanced Distribution Systems,"IEEE Transactions on Power Systems, vol. 31, no. 1, pp. 256-267, January 2016.
+S. T. Cady, A. D. Dominguez-Garcia, and C. N. Hadjicostis, "A Distributed Generation Control Architecture for Â Islanded AC Microgrids," IEEE Transactions on Control Systems Technology, vol. 23, no. 5, pp. 1717-1735, September 2015. 
+A. D. Dominguez-Garcia and C. N. Hadjicostis, "Distributed Resource Coordination in Networked Systems Described by Digraphs," Systems & Control Letters, vol. 82, pp. 33-39, August 2015.
+Y. C. Chen, A. D. Dominguez-Garcia, and P. W. Sauer, "A Sparse Representation Approach to Online Estimation of Power System Distribution Factors," IEEE Transactions on Power Systems, vol. 30, no. 4, pp. 1727-1738, July 2015.
+A. Y.S. Lam, B. Zhang, A. D. Dominguez-Garcia, and D. Tse, "An Optimal and Distributed Method for Voltage Regulation in Power Distribution Systems,"  IEEE Transactions on Power Systems, vol. 30, no. 4, pp. 1714-1726, July 2015.
+S. Qin, S. T. Cady, A. D. Dominguez-Garcia, and R. Pilawa-Podgurski, "A Distributed Approach to MPPT for PV Sub-Module Differential Power Processing," IEEE Transactions on Power Electronics, vol. 30, no. 4, pp. 2024-2040, April 2015.
+Y. C. Chen, P. W. Sauer, and A. D. Dominguez-Garcia, "Measurement-Based Estimation of Linear Sensitivity Distribution Factors and Applications," IEEE Transactions on Power Systems, vol. 29, no. 3, pp.1372-1382, May 2014.
+S. V. Dhople, L. DeVille, and A. D. Dominguez-Garcia, â€œA Stochastic Hybrid Systems Framework for Performability Analysis," Journal of Reliability Engineering and System Safety, vol.123, pp. 158-170, Mar. 2014.
+S. V. Dhople, L. DeVille, and A. D. Dominguez-Garcia, "Analysis of Power System Dynamics Subject to Stochastic Power Injections," IEEE Transactions on Circuits and Systems I,  vol. 60, no. 12, pp. 3341-3353, Dec. 2013.
+S. V. Dhople, Y. C. Chen, and A. D. Dominguez-Garcia, "A Set-Theoretic Method for Parametric Uncertainty Analysis in Markov Reliability and Reward Models," IEEE Transactions on Reliability, vol. 62, no. 3, pp. 658-669, Sep. 2013.
+X. Jiang, J. Zhang, B. Harding, J. Makela, and A. D. Dominguez-Garcia, "Spoofing GPS Receiver Clock Offset of Phasor Measurement Units," IEEE Transactions on Power Systems,  vol. 28, no. 3, pp. 3253-3262, Aug. 2013
+B. A. Robbins,  C. N. Hadjicostis, and A. D.  Dominguez-Garcia,  "A Two-Stage Distributed  Architecture for Voltage Control in  Power Distribution Systems," IEEE Transactions on Power Systems,  vol. 28, no. 2, pp. 1470-1482, May 2013
+X. Jiang, Y. C. Chen, and A. D. Dominguez-Garcia, "A Set-Theoretic Framework to Assess the Impact of Variable Generation on the Power Flow," IEEE Transactions on Power Systems, vol. 28, no. 2, pp. 855-867, May 2013.
+X. Ding, J. Poon, Ivan Celanovic, and A. D. Dominguez-Garcia, "Fault Detection and Isolation
+Filters for Three-Phase Power Electronics Systems," IEEE Transactions on Circuits and Systems I,  vol. 60, no. 4, pp. 1038-1051, Apr. 2013.
+A. D. Dominguez-Garcia and C. N. Hadjicostis, "Distributed Matrix Scaling and Application to Average Consensus in Directed Graphs," IEEE Transactions on Automatic Control, vol. 58, no. 3, pp. 667-681, Mar. 2013. 
+Y. C. Chen and A. D. Dominguez-Garcia, "A Method to Study the Effect of  Renewable Resource Variability on Power System Dynamics," IEEE Transactions on Power Systems, vol. 27, no. 4, pp. 1978-1989, Nov. 2012.
+S. V. Dhople  and A. D. Dominguez-Garcia, "A Parametric Uncertainty Analysis Method for Markov Reliability and Reward Models," IEEE Transactions on Reliability, vol. 61 no. 3, pp. 634-648, Sep. 2012.
+A. D. Dominguez-Garcia, C. N. Hadjicostis, and Nitin H. Vaidya,  "Resilient Networked Control of Distributed Energy Resources,"  IEEE Journal on Selected Areas in Communications, vol. 30, no. 6, pp.1137-1148, Jul. 2012.
+M. Muller and A. D. Dominguez-Garcia, "Fault Coverage Modeling in Nonlinear Dynamical Systems," Automatica, vol. 48, no. 7, pp. 1372â€“1379, Jul. 2012.
+S. V. Dhople  and A. D. Dominguez-Garcia, "Estimation of Photovoltaic System Reliability and Performance Metrics," IEEE Transactions on Power Systems, vol. 27, no. 1, pp. 554-566, Feb. 2012. 
+S. V. Dhople, A. Davoudi, P. L. Chapman, and A. D. Dominguez-Garcia,"A Comprehensive Reliability Assessment of Multiphase DC-DC Converters in Photovoltaic Energy-Conversion Systems," IEEE Transactions on Power Electronics, vol. 27, no. 2, pp. 739-751, Feb. 2012.
+A. Bazzi, A. D. Dominguez-Garcia, and P. T. Krein, "Markov Reliability Model of an Induction Motor Drive under Field-Oriented Control," IEEE Transactions on Power Electronics, vol. 27 no. 2, pp. 534-546, Feb. 2012.
+E. Hope, Xichen Jiang, and A. D. Dominguez-Garcia, "A Reachability-Based Method for Large-Signal Verification of DC-DC Converters," IEEE Transactions on Circuits and Systems I, vol. 58, no. 12, pp. 2944-2955, Dec. 2011.
+S. Smater and A. D. Dominguez-Garcia, "A Framework for Reliability of and Performance Assessment of Wind Energy Conversion Systems," IEEE Transactions on Power Systems, vol. 26, no.4, pp.2235-2245, Nov. 2011. 
+A. Tanwani, A. D. Dominguez-Garcia, and D. Liberzon,  "An Inversion-Based Approach to Fault Detection and Isolation in Switching Electrical Networks," IEEE Transactions on Control Systems Technology,  vol.19, no.5, pp.1059-1074, Sep. 2011.
+A. D. Dominguez-Garcia, J. G. Kassakian, J. E. Schindall, "A Generalized Fault Coverage Model for Linear Time-Invariant Systems," IEEE Transactions on Reliability, vol. 58, no. 3, pp 553-567, Sep. 2009. 
+A. D. Dominguez-Garcia, J. G. Kassakian, and J. E. Schindall, and J. J. Zinchuk, "An integrated methodology for the dynamic performance and reliability evaluation of fault-tolerant systems," Journal of Reliability Engineering & System Safety, vol. 93, no. 11, pp 1628-1649, Nov. 2008.
+A. D. Dominguez-Garcia, J. G. Kassakian, and J. E. Schindall, "Reliability evaluation of the power supply of an electrical power net for safety-relevant applications," Journal of Reliability Engineering and System Safety, vol. 91, no. 5, pp 505-514, May 2006.
+
+Articles in Conference Proceedings
+N.  Baeckeland, G. Seo; A. D. Dominguez-Garcia, D. Ramasubramanian, D. Gross,  S. Dhople, "Equivalent-circuit Models for Grid-forming Inverters under Unbalanced Steady-State Operating Conditions,"  in Proc. of the Hawaii International Conference on System Sciences, Big Island, HI,  January 2025.
+C. N. Hadjicostis and  A. D. Dominguez-Garcia, "Distributed Average Consensus in Open Multi-Agent Systems," in Proc.  of the IEEE Control and Decision Conference, Milan, Italy, December 2024.
+C. N. Hadjicostis and  A. D. Dominguez-Garcia, "Invariant Properties of Linear-Iterative Distributed Averaging Algorithms and Application to Error Detection," in Proc. of the European Control Conference, Stockholm, Sweden, June 2024, and \textit{European Journal of Control}, to appear.
+J. A. Taylor and  A. D. Dominguez-Garcia, "Auxiliary Signal-Based Distance Protection in Inverter-Dominated Power System," in Proc. of the European Control Conference, Stockholm, Sweden, June 2024.
+C. N. Hadjicostis and A. D. Dominguez-Garcia, "Identification of Malicious Activity in Distributed Average Consensus via Non-Concurrent Checking," Proc. of the IEEE Control and Decision Conference, Marina Bay Sands, Singapore, December 2023, and IEEE Control Systems Letters, vol. 7, pp. 1927 –  1932, June 2023.
+T. Roberts and D. Dominguez-Garcia, "Secondary Frequency and Voltage Control in Microgrids with dVOC-Based Inverters,"  in Proc. of North American Power Symposium, Asheville, NC, October 2023.
+T. Amuda, O. Ajala, and D.  Dominguez-Garcia,  "A Quasi-Newton Algorithm for Solving the Power Flow Problem in Inverter-Based Power Systems," in Proc. of North American Power Symposium, Asheville, NC, October 2023.
+O. Ajala, T. Roberts, and A. D. Dominguez-Garcia, "Power-Flow Formulation for Inverter-Based Grids," in Proc. of the IEEE Power and Energy Society General Meeting, Orlando, FL, July 2023. 
+S. Nigam, O. Ajala, and A. D. Dominguez-Garcia, "Controller Hardware-in-the-Loop Testing of a Scheduler for Microgrid Control Tasks," in Proc. of the IEEE Power and Energy Society General Meeting, Orlando, FL, July 2023.
+A. D. Dominguez-Garcia, M. Zholbaryssov, T. Amuda, and O. Ajala, "An Online Feedback Optimization Approach to Voltage Regulation in Inverter-Based Power Distribution Networks," in Proc. of the American Control Conference, San Diego, CA, May 2023.
+C.N.Hadjicostis and A.D.Dominguez-Garcia, "Trustworthy Distributed Average Consensus," in Proc. of the IEEE Control and Decision Conference, Cancu, Mexico, December 2022.
+ D. Venkatramanan, M. K. Singh, O. Ajala⋆, A. D. Dominguez-Garcia, and S. Dhople,  "Integrated System Models for Networks with Generators  & Inverters," in Proc. of the IREP Bulk Power System Dynamics and Control Symposium, Banff, Canada, July 2022
+B. Johnson, T.G. Roberts, O. Ajala, A. D. Dominguez-Garcia, S Dhople, D. Ramasubramanian, A. Tuohy, D. Divan, and B. Kroposki, "A Generic Primary-control Model for Grid-forming Inverters: Towards Interoperable Operation & Control,"  in Proc. of the Hawaii International Conference on System Sciences, Virtual, January 2022.
+O. Ajala, N. Baeckeland, S. Dhople, A. D. Dominguez-Garcia, "Uncovering the Kuramoto Model from Full-order Models of Grid-forming Inverter-based Power Networks," in Proc. of the IEEE Control and Decision Conference, Austin, TX, December 2021. 
+M. Zholbaryssov, C. N. Hadjicostis, and A. D.Â Dominguez-Garcia, "Privacy-Preserving Distributed Coordination of Distributed Energy Resources," in Proc. of the IEEE Control and Decision Conference, Jeju Island, Republic of Korea, December 2020.  
+P. Huynh, S. Sirimanna, J. Mok, D. Lee, O. Ajala, S. Linares, D. Mulas, K. Haran, A. D.Dominguez-Garcia, G. Gross, and A. Banerjee, "ntegrated Generator-Rectifier Co-Design for Offshore Wind Applications," in Proc. of the IEEE Energy Conversion Congress and Exposition, Detroit, MI, October 2020.
+S. Nigam, O. Ajala, M. Zholbaryssov, A. D. Dominguez-Garcia, and P. W. Sauer, "Distributed Secondary Frequency Control in AC Microgrids with Lossy Networks," in Proc. of the IEEE Power and Energy Society General Meeting, Montreal, Canada, August 2020.
+S. Nigam, O. Ajala, A. D. Dominguez-Garcia, and P. W. Sauer, "Controller Hardware in the Loop Testing of Microgrid Secondary Frequency Control Schemes," in Proc. of Power Systems Computation Conference, Porto, Portugal, July 2020.
+O. Azofeifa, S. Nigam, O. Ajala, C. Sain, S. Utomi, A. D. Dominguez-Garcia, and Peter W. Sauer, "Controller Hardware-in-the-Loop Testbed for Distributed Coordination and Control Architectures," in Proc. of North American Power Symposium, Wichita, KS, October 2019. 
+O. Azofeifa, S. Nigam, O. Ajala, C. Sain, S. Utomi, A. D. Dominguez-Garcia, and Peter W. Sauer, "Controller Hardware-in-the-Loop Testbed for Distributed Coordination and Control Architectures," in Proc. of North American Power Symposium, Wichita, KS, October 2019. 
+C. N. Hadjicostis and A. D. Dominguez-Garcia, "Finite-Time Distributed Flow Balancing,"  in Proc. of the IEEE Control and Decision Conference, Nice, France, December 2019.
+O. Ajala, A. D. Dominguez-Garcia, D. Liberzon,  "Robust Synchronization of Electric Power Generators,"  in Proc. of the IEEE Control and Decision Conference, Miami, FL, December 2018.
+M. Zholbaryssov and A. D. Dominguez-Garcia, "Microgrid Distributed Frequency Control Over Time-Varying Communication Networks," in Proc. of the IEEE Control and Decision Conference, Miami, FL, December 2018.
+G. Rovatsos, S. Zou, A. D. Dominguez-Garcia, V. V. Veeravalli, "Stochastic Control of Power Supply in Data Centers," in Proc. of the Asilomar Conference on Signals, Systems and Computers, Monterey, CA, October 2018.
+H. Xu, A. D. Dominguez-Garcia, P. W. Sauer, “Adaptive Coordination of Distributed Energy Resources in Lossy Power Distribution Systems,” in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, July 2018.
+H. Xu, A. D. Dominguez-Garcia, P. W. Sauer, “A Data-driven Voltage Control Framework for Power Distribution Systems,” in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, July 2018.
+M. Zholbaryssov and A. D. Dominguez-Garcia, "On the Use of Entropy-Like Functions for Solving the Network Flow Problem with Application to Electric Power Systems," in Proc. of the IEEE European Control Conference, Limassol Cyprus, June 2018
+M. Zholbaryssov and A. D. Domínguez-García, "Distributed Voltage Regulation of Islanded In- ertialess AC Microgrids with Lossy Networks," in Proc. of the IEEE Control and Decision Conference, Melbourne, Australia, December 2017.
+C. N. Hadjicostis and and A. D. Domínguez-García, "Distributed Balancing under Interval Flow Constraints in Directed Communication Topologies," in Proc. of the IEEE Control and Decision Conference, Melbourne, Australia, December 2017.
+X. Jiang, Y. C. Chen, A. D. Domínguez-García, V. V. Veeravalli, "Quickest Line Outage Detection and Identification: Measurement Placement and System Partitioning," in Proc. of the North American Power Symposium, Morgantown, WV, September 2017.
+H. Xu, S. C. Utomi, A. D. Domínguez-García, and P. W. Sauer, “Coordination of Distributed Energy Resources in Lossy Networks for Providing Frequency Regulation,” in Proc. of the IREP Bulk Power System Dynamics and Control Symposium, Espinho, Portugal, August 2017.
+O. O. Ajala, M. Almeida, I. Celanovic, P. W. Sauer, and A. D. Domínguez-García, "A Hierarchy of Models for Microgrids With Grid-Feeding Inverters," in Proc. of the IREP Bulk Power System Dynamics and Control Symposium Espinho, Portugal, August 2017.
+
+A. Cherukuri, A. D. Domínguez-García, and J. Cortes, "Distributed Coordination of Power Generators for a Linearized Optimal Power Flow Problem," in Proc. of American Control Conference, Seattle, WA, May 2017.
+J. T. Hughes, A. D. Domínguez-García, and K. Poolla, "Coordinating  Heterogeneous Distributed Energy Resources for Provision of Frequency Regulation Services,” in Proc. of the Hawaii International Conference on System Sciences, Big Island, HI, January 2017. 
+M. Zholbaryssov and A. D. Domínguez-García, “Exploiting Phase Cohesiveness for Frequency Control of Islanded Inverter-Based Microgrids,” in Proc. of the IEEE Control and Decision Conference, Las Vegas, NV, December 2016.
+C. N. Hadjicostis and A. D. Domínguez-García, “Distributed Balancing in Digraphs under Interval Constraints,” in Proc. of the IEEE Control and Decision Conference, Las Vegas, NV, December 2016.
+J. Zhang and A. D. Domínguez-García, “Augmenting the Power System Toolbox: Enabling Automatic Generation Control and Providing a Platform for Cyber Security Analysis,” in Proc. of the North American Power Symposium, Denver, CO, September 2016.
+G. Rovatsos, X. Jiang, A. D. D. Dominguez-Garcia, and V. V. Veeravalli, "Comparison of Statistical Algorithms for Power System Line Outage Detection," in Proc. of the IEEE International Conference on Acoustics, Speech, and Signal Processing, Shanghai, China, March 2016.
+S. T. Cady, A. D. Dominguez-Garcia, and C. N. Hadjicostis, "Distributed Frequency Control of Inertia-Less AC Microgrids," in Proc. of the IEEE Control and Decision Conference, Osaka, Japan, December 2015
+K. E. Van Horn, A. D. Dominguez-Garcia, and P. W. Sauer, "Sensitivity-Based Line Outage Angle Factors” in Proc. of the North American Power Symposium, Charlotte, NC, October 2015.
+D. Apostolopoulou, P. W. Sauer, and A. D. Dominguez-Garcia, "Distributed Optimal Load Frequency Control and Balancing Authority Area Coordination" in Proc. of the North American Power Symposium, Charlotte, NC, October 2015.
+D. Apostolopoulou, P. W. Sauer, and A. D. Dominguez-Garcia, "Balancing Authority Area Coordination with Limited Exchange of Information,” in Proc. of the IEEE Power and Energy Society General Meeting, Denver, CO, July 2015.
+K. E. Van Horn, A. D. Dominguez-Garcia, and P. W. Sauer, "Measurement-Based Real-Time Economic Dispatch," in Proc. of the IEEE Power and Energy Society General Meeting, Denver, CO, July 2015
+J. Hughes, A. D. Dominguez-Garcia, and K. Poolla, "Virtual Battery Models for Load Flexibility from Commercial Buildings," in Proc. of the Hawaii International Conference on System Sciences, Kauai, HI, January 2015.
+S. T. Cady, A. D. Dominguez-Garcia, and C. N. Hadjicostis, "Finite-Time Approximate Consensus and its Application to Distributed Frequency Regulation in Islanded AC Microgrids," in Proc. of the Hawaii International Conference on System Sciences, Kauai, HI, January 2015.
+C. N. Hadjicostis and A. D. Dominguez-Garcia, "Convergence Rate of a Distributed Algorithm for  Matrix Scaling to Doubly Stochastic Form," in Proc. of the IEEE Control and Decision Conference, Los Angeles, CA, December 2014.
+J. Zhang, L. DeVille, S. V. Dhople, A. D. Dominguez-Garcia, "A Maximum Entropy Approach to the Moment Closure Problem for Stochastic Hybrid Systems at Equilibrium," in Proc. of the IEEE Control and Decision Conference, Los Angeles, CA, December 2014.
+Y. C. Chen, A. D. Dominguez-Garcia, and P. W. Sauer, “Generalized Injection Shift Factors and Application to Estimation of Power Flow Transients,” in Proc. of the North American Power Symposium, Pullman, WA, September 2014.
+X. Jiang and A. D. Dominguez-Garcia, “A Zonotope-Based Method for Uncertainty Analysis in Power Systems with Renewable Generation,” in Proc. of the North American Power Symposium, Pullman, WA, September 2014.
+J. Zhang and A. D. Dominguez-Garcia, “On the Impact of Communication Delays on Power System Automatic Generation Control Performance,” in Proc. of the North American Power Symposium, Pullman, WA, September 2014
+B. Gharesifard, T. Basar, and A. D. Dominguez-Garcia, "Designing pricing strategies for coordination of networked distributed energy resources," in Proc. of IFAC World Congress, Cape Town, South Africa, August 2014.
+D. Apostolopoulou, A. D. Dominguez-Garcia, and P. W. Sauer, "Online Estimation of Power System Actual Frequency Response Characteristic," in Proc. of the IEEE Power and Energy Society General Meeting, Washington, DC, July 2014.
+J. Zhang, A. D. Dominguez-Garcia, "On the Failure of Power System Automatic Generation Control due to Measurement Noise," in Proc. of the  IEEE Power and Energy Society General Meeting, Washington, DC, July 2014.
+L. Heng, J. Makela, A. D. Dominguez-Garcia, R. Bobba, W. Sanders, and G. Xingxin Gao, "Reliable GPS-Based Timing for Power Systems: A Multi-Layered Multi-Receiver Architecture," in Proc. of the Power and Energy Conference at Illinois, Urbana, IL, February 2014.
+T. Banarjee, Y. C. Chen, A. D. Domínguez-García, and V. Veeravalli, “Power System Line Outage Detection and Identification—A Quickest Change Detection Approach,” in Proc. of the IEEE International Conference on Acoustics, Speech, and Signal Processing, Florence, Italy, May 2014. 
+S. V. Dhople, K. A. Kim, and A. D. Dominguez-Garcia, "Time-Optimal Control in Dc-Dc Converters: a Maximum Principle Perspective," in Proc. of the IEEE Applied Power Electronics Conference and Exposition, Forth Worth, TX, March, 2014.
+D. Apostolopoulou, P. W. Sauer, and A. D. Dominguez-Garcia, “Automatic Generation Control and its Implementation in Real Time,” in Proc. of the Hawaii International Conference on System Sciences, Big Island, HI, January 2014.
+B. A. Robbins, H. Zhu, and A. D. Dominguez-Garcia, "Optimal Tap Settings for Voltage Regulation Transformers in Distribution Networks," in Proc. of the North American Power Symposium, Manhattan, KS, September 2013.
+Y. C. Chen, A. D. Dominguez-Garcia, and P. W. Sauer, "Online Estimation of Power System Distribution Factors---A Sparse Representation Approach," in Proc. of the North American Power Symposium, Manhattan, KS, September 2013.
+J. Zhang, A. D. Dominguez-Garcia, and P. W. Sauer, "Online Transmission Line Loadability Assessment Using Synchrophasor Measurements," in Proc. of the North American Power Symposium, Manhattan, KS, September 2013.
+B. Zhang, A. D. Dominguez-Garcia, and D. Tse, "A Local Control Approach to Voltage Regulation in Distribution Networks," in Proc. of the North American Power Symposium, Manhattan, KS, September 2013.
+S. Qin, S. T. Cady, A. D. Dominguez-Garcia, and R. Pilawa-Podgurski, "A Distributed Approach to Maximum Power Point Tracking for Photovoltaic Sub-Module Differential Power Processing,"  in Proc. of the IEEE Energy Conversion Congress and Exposition, Denver, CO, September 2012.
+Y. C. Chen, P. Sauer and A. D. Dominguez-Garcia,  "Online Computation of Power System Linear Sensitivity Distribution Factors," in Proc. of the IREP Bulk Power System Dynamics and Control Symposium,” Crete, Greece, August 2013.
+D. Apostolopoulou, Y. C. Chen, J. Zhang, A. D. Dominguez-Garcia, and P. Sauer,  "Effects of Various Uncertainty Sources on Automatic Generation Control Systems," in Proc. of the IREP Bulk Power System Dynamics and Control Symposium," Crete, Greece, August 2013.
+B. Gharesifard, T. Basar, and A. D. Dominguez-Garcia, “Price-Based Distributed Control for Networked Plug-in Electric Vehicles,"  in Proc. of the IEEE American Control Conference, Washington, DC, June 2013.
+K. E. Reinhard, P. W. Sauer, and A. D. Dominguez-Garcia, “On Computing Power System Steady State Stability via Synchrophasor Data,” in Proc. of the Hawaii International Conference on System Sciences, pp. 2312 - 2318, Maui, HI, January 2013.
+A. D. Dominguez-Garcia, S. T. Cady, and C. N. Hadjicostis, "Decentralized Optimal Dispatch of Distributed Energy Resources," in Proc. of the IEEE Control and Decision Conference, pp. 3688 - 3693,  Maui, HI, December 2012. 
+C. N. Hadjicostis, A. D. Dominguez-Garcia, and N. H. Vaidya, "Resilient Average Consensus in the Presence of Heterogeneous Packet Dropping Links," in Proc. of the IEEE Control and Decision Conference, pp. 106 - 111, Maui, HI, December 2012.
+N. H. Vaidya, C. N. Hadjicostis, and A. D. Dominguez-Garcia, "Robust Average Consensus over Packet Dropping Links: Analysis via Coefficients of Ergodicity," in Proc. of the IEEE Control and Decision Conference, pp. 2761 - 2766, Maui, HI, December 2012.
+S. Dhople, R. Bell, J. Ehlmann, A. Davoudi, P Chapman and A. Dominguez-Garcia, "A Global Maximum Power Point Tracking Method for Photovoltaic Module Integrated Converters," in Proc. of the IEEE Energy Conversion Congress and Exposition, pp. 4762 - 4767, Raleigh, SC, September 2012.
+S. T. Cady and A. D. Dominguez-Garcia, "Distributed Generation Control of Small-Footprint Power Systems," in Proc. of the North American Power Symposium, pp 1 - 6, Champaign, IL, September 2012.
+S. Dhople and A. D. Dominguez-Garcia, "A Framework to Determine the Probability Density Function for the Output Power of Wind Farms," in Proc. of the North American Power Symposium, pp. 1 - 6, Champaign, IL, September 2012.
+J. Poon, A. Genic, X. Ding, A. D. Dominguez-Garcia, and I. Celanovic, "A Linear-Switched Observer for Large-Signal State Estimation on Power Electronics," in Proc. of the IEEE Energy Conversion Congress and Exposition Europe—Europe, pp. LS3b.3-1 - LS3b.3-5, Novi Sad, Serbia, September 2012.
+A. D. Dominguez-Garcia, "Reliability Modeling of Cyber-Physical Electric Power Systems: A System-Theoretic Framework," in Proc. of the IEEE Power and Energy Society General Meeting, pp. 1 - 5, San Diego, CA, July 2012. 
+Q. Zhu, J. Zhang, P. Sauer, A. D. Dominguez-Garcia, and T. Basar,  "A Game-Theoretic Framework for Distributed Generation of Renewable Energies in Smart Grids," in Proc. of the IEEE American Control Conference, pp. 3623 - 3628, Montreal, Canada, June 2012.
+A. Subramanian, M. Garcia, A. D. Dominguez-Garcia, D. Callaway, K. Poolla, and P. Varaiya, "Real-time Scheduling of Deferrable Electric Loads," in Proc. of the IEEE American Control Conference, pp. 3643 - 3650, Montreal, Canada, June 2012.
+A. D. Dominguez-Garcia and C. N. Hadjicostis, "Distributed Strategies for Average Consensus in Directed Graphs," in Proc. of the IEEE Control and Decision Conference, pp. 2124 - 2129, Orlando, FL, December 2011.
+A. D. Dominguez-Garcia and C. N. Hadjicostis, "Distributed Algorithms for Control of Demand Response and Distributed Energy Resources,” in Proc. of the IEEE Control and Decision Conference, pp. 27 - 32, Orlando, FL, December 2011.
+B. A. Robbins, A. D. Dominguez-Garcia, and C. N. Hadjicostis, “Control of Distributed Energy Resources for Reactive Power Support,” in Proc. of the North American Power Symposium, pp. 1 - 5, Boston, MA, August 2011.
+S. T. Cady, A. D. Dominguez-Garcia, C. N. Hadjicostis, “Robust Implementation of Distributed Algorithms for Control of Distributed Energy Resources,” in Proc. of the North American Power Symposium, pp. 1 - 5, Boston, MA, August 2011.
+Y. C. Chen, X. Jiang, and A. D. Dominguez-Garcia, “Impact of Power Generation Uncertainty on Power System Static Performance,” in Proc. of the North American Power Symposium, pp. 1 -5, Boston, MA, August 2011. Best Student Paper Award.
+A. D. Dominguez-Garcia, P. T. Krein,  C. N. Hadjicostis,  and S. T. Cady, "Small Inverter-Interfaced Distributed Energy Resources for Reactive Power Support,"  in Proc. of the IEEE Applied Power Electronics Conference and Exposition, pp. 1616 - 1621,  Fort Worth, TX , February 2011.
+A. M. Bazzi, X. Ding, A. D. Dominguez-Garcia, and P. T. Krein, "Circuit-Based Induction Motor Drive Reliability under Different Control Schemes and Safe-Mode Operation," in Proc. of the IEEE Applied Power Electronics Conference and Exposition, pp. 653 - 660,  Fort Worth, TX, February 2011.
+A. M. Bazzi, K. A. Kim, B. B. Johnson, P. T. Krein, and A. D Dominguez-Garcia, "Fault Impacts on Solar Power Unit Reliability," in Proc. of the IEEE Applied Power Electronics Conference and Exposition, pp. 1223 - 1231, Fort Worth, TX , February 2011.
+C. Chen and A. D. Domínguez-García, "Assessing the Impact of Wind Variability on Power System Small-Signal Reachability," in Proc. of the Hawaii International Conference on System Sciences, pp. 1 - 8, Kuaui, HI, January 2011.
+A. D.  Dominguez-Garcia and Stephan Trenn,  "Detection of Impulsive Effects in Switched DAEs with Application to Power Electronics Reliability Analysis," in Proc. of the IEEE Control and Decision Conference, pp. 5662 - 5667, Atlanta, GA, December 2010.
+A. D. Dominguez-Garcia and C. N. Hadjicostis, "Coordination and Control of Distributed Energy Resources for Provision of Ancillary Services," in Proc. of the IEEE International Conference on Smart Grid Communication, pp. 537 - 542, Gaithersburg, MD, October 2010.
+K. Levin, E. Hope, and A. D. Dominguez-Garcia, "Observer-Based Fault Diagnosis of Power Electronics Systems," in Proc. of the IEEE Energy Conversion Congress and Exposition, pp. 4434 - 4440, Atlanta, GA, September 2010.
+S. Smater and A. D. Dominguez-Garcia, "A Unified Framework for Reliability Assessment of Wind Energy Conversion Systems," in Proc. of the IEEE Power and Energy Society General Meeting, pp. 1 - 4, Minneapolis, MN, July 2010.
+S. V. Dhople, A. Davoudi, P. L. Chapman, and A. D. Domínguez-García, "Integrating Photovoltaic Inverter Reliability into Energy Yield Estimation with Markov Models," in Proc. of the IEEE Workshop on Control and Modeling for Power Electronics, pp. 1 - 5, Boulder, Co, June 2010.
+M. Müller and A. D. Domínguez-García, "On Input-to-State Stability Notions for Reachability Analysis of Power Systems," in Proc. of the IEEE International Symposium on Circuits and Systems, pp. 2754	 - 2757, Paris, France, June 2010.
+A. Bazzi, A. D. Dominguez-Garcia, and P. T. Krein, "A Method for Impact Assessment of Faults on the Performance of Field-Oriented Control Drives: A First Step to Reliability Modeling," in Proc. of the IEEE Applied Power Electronics Conference and Exposition, pp. 256 - 263, Palm Springs, CA, February 2010.
+
+S. C. Chang, F. M. Yaul, A. D. Domínguez-García, F. O’Sullivan, D. M. Otten and J. H. Lang, "Harvesting Energy from Moth Vibrations During Flight," in Proc. of the International Workshop on Micro and Nanotechnologies for Power Generation and Energy Conversion Applications, Washington, DC, December 2009.
+E. Hope and A. D. Domínguez-García, "Design Verification of Power Electronics Systems Subject to Bounded Uncertain Inputs," in Proc. of the IEEE Energy Conversion Congress and Exposition, pp.  1126 - 1132,  San Jose, CA, September 2009.
+S. V. Dhople, A. Davoudi, P. L. Chapman and A. D. Domínguez-García, "Reliability Assessment of Fault-Tolerant DC-DC Converters for Photovoltaic Applications," in Proc. of the  IEEE Energy Conversion Congress and Exposition, pp. 2271 - 2276, San Jose, CA, September 2009
+G. Hanuschak, N. Harrison, E. Crawley, S. Hall, A. D. Domínguez-García, J. West, and N. Dennehy, "A Comparison of Fault-Tolerant GN&C System Architectures Using the Object Process Network (OPN) Modeling Language," in Proc. of the AIAA Guidance, Navigation and Control Conference and Exhibit, pp. 1 - 21, Chicago, IL, August 2009.
+A. D. Dominguez-Garcia and P. T. Krein, "A Framework for Multi-Level Reliability Evaluation of Electrical Energy Systems," in Proc. IEEE Conference on Global Sustainable Infrastructure, pp. 1 -6, Atlanta, GA, November 2008.
+A. D. Dominguez-Garcia and P. T. Krein, "Integrating Reliability into the Design of Fault-Tolerant Power Electronic Systems," in Proc. of the  IEEE Power Electronics Specialist Conference, pp. 2665 - 2671, Rodhes, Greece, June 2008.
+A. D. Dominguez-Garcia, G. Z. Hanuschak, S. R. Hall, E. F. Crawley, "A Comparison of Guidance, Navigation and Control Architectural Approaches for Robotic and Human-Rated Spacecraft," in Proc. of the AIAA Guidance, Navigation and Control Conference and Exhibit, pp. 1 -15,  Hilton Head, SC, August 2007.
+A. D. Dominguez-Garcia, J. G. Kassakian, J. E. Schindall, and J. J. Zinchuk, "On the Use of Behavioral Models for the Integrated Performance and Reliability Performance Evaluation of Fault-Tolerant Avionics Systems," in Proc. of the IEEE/AIAA Digital Avionics Systems Conference, Portland, pp. 1 - 14, OR, October 2006. Best Student Paper Award.
+A. D. Dominguez-Garcia, J. G. Kassakian, and J. E. Schindall, "A Backup System for Automotive Steer-by-Wire, Actuated by Selective Braking," in Proc. of the  IEEE Power Electronics Specialist Conference,  pp. 383 - 388,   Aachen, Germany, June 2004.
+
+Recent Courses TaughtECE 476 - Power System Analysis
+ECE 486 - Control Systems
+ECE 530 - Large-Scale System Analysis
+ECE 554 (ME 544) - Dynamic System Reliability
+ECE 573 - Power System Control
+

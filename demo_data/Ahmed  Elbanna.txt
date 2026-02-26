@@ -1,0 +1,179 @@
+
+
+
+Ahmed Elbanna 
+
+
+
+
+
+Associate Professor
+Donald Biggar Willett Faculty Fellow
+
+
+(217) 300-4664
+elbanna2@illinois.edu
+2219 Newmark Civil Engineering Bldg
+
+
+For More Information
+Research Website
+
+Education
+PhD. Civil Engineering
+California Institute of Technology, USA
+2011
+MSc. Applied Mechanics
+California Institute of Technology, USA
+2006
+MSc. Structural Engineering
+Faculty of Engineering, Cairo University
+2005
+BSc. Civil Engineering
+Faculty of Engineering, Cairo University
+2003
+
+Biography
+
+
+Ahmed  E. Elbanna holds a Ph.D. in civil engineering (2011) and an M.S. in  applied mechanics (2006), both from the California Institute of  Technology, and an M.S. in structural engineering (2005) and B.S. in  civil engineering (2003) from Cairo University. He joined the faculty in  2013. 
+His honors include the National Science Foundation CAREER award, 2018, Fellowship of the National Center of Supercomputing Applications, 2015, the George Housner Fellowship, California  Institute of Technology, 2005, and a Certificate of Honor, National  Ceremony of Science, Egypt, 2004.
+
+
+
+Academic Positions
+Associate Professor, Department of Civil and Environmental Engineering, University of Illinois Urbana Champaign 2020-present
+Assistant Professor, Department of Civil and Environmental Engineering, University of Illinois Urbana Champaign 2013-2020
+Postdoctoral Scholar,
+Department of Physics,
+University of California at Santa Barbara
+2011-2012
+
+Research StatementOur research focuses on problems in theoretical and applied mechanics of solids, in the presence and absence of pore fluids, with special emphasis on fracture, deformation and wave propagation. Currently, we have three major research thrusts:MECHANICS AND PHYSICS OF EARTHQUAKES AND GRANULAR MATERIALS:The long term objective of this research is to link small scale  processes in fault zones with large scale dynamic rupture characteristics, wave propagation, seismic and aseismic slip, and long term earthquake cycle models to provide rigorous predictive tools for nonlinear fault dynamics that can ultimately inform next generation seismic hazard models. Our work is contributing to the development of micromechanical models of deformation and failure in granular materials, modeling dynamic ruptures in heterogeneous fault zones and branched fault systems, identification of hydro-thermo- mechanical weakening mechanisms specific to fault gouge, investigation of strain localization and stick-slip dynamics in sheared and vibrated granular layers with breakable particles, and establishment of novel hybrid numerical techniques for multi-scale fault zone dynamics.MECHANICS AND PHYSICS OF NETWORKED AND BIOLOGICAL MATERIALS:The  long term objective of this research is to develop a rigorous understanding for the effect of micro-structure and local topology on deformation and failure of networked materials. Specific systems of interest include polymer networks as arising in hydrogels and soft tissues and trabecular networks in human bone. Current efforts focus on multi-scale constitutive modeling and fracture in soft materials including rate dependence, damage evolution, poro-mechanical effects and structure-function relations as well as the development of quasi-continuum models for domain decomposition in fractured lattice-like materials.MECHANICAL METAMATERIALS:The primary objective of this research is to design materials with adaptive, tunable and extreme elastodynamic properties using principles from biology and geophysics that will transform applications in impact resistance, wave modulation, and earthquake engineering. Current efforts focus on theoretical understanding of the nature of mechanical band gaps, elastodynamic response of layered systems, novel applications of transformation elastodynamics, and modeling of negative stiffness structural elements.To address these challenging topics we use a variety of theoretical techniques stemming from non-equilibrium statistical thermodynamics (shear transformation zone theory), computational mechanics (finite element and boundary integral methods), optimization theory (topology optimization), machine learning, and nonlinear dynamics (stability analysis, reduced order models and chaos theory).
+Research Interests
+Modeling Epidemics
+Friction and fracture
+Mechanical metamaterials.
+Mechanics and physics of networked and biological materials
+Mechanics and physics of earthquakes and granular matter
+
+
+Research Areas
+Energy-Water-Environment Sustainability
+Structural Engineering
+
+
+Selected Articles in Journals
+Abdelmeguid, M., Mia, M.S.,  and  Elbanna, A.E., (2024) On the Interplay Between Distributed Bulk Plasticity and Local Fault Slip in Evolving Fault Zone Complexity.  Geophysics Research Letters. Volume 51. Issue 14
+Abdelmeguid, M., Rosakis, A., and Elbanna, A. E. (2024). Ground Motion Characteristics of sub-Rayleigh and Supershear Ruptures in the presence of Sediment Layers. Geophysics Journal International Volume 240, Issue 2, February 2025, Pages 967–987.
+Zhao, C., Mia, M., Elbanna, A.E.,  & Ben-Zion, Y. (2024) Dynamic Rupture Propagation with distributed and discrete damage.  Mechanics of Materials. Volume 198. November 2024. 105139
+Mia. S.,  Abdelmeguid, M.,  Harris, R., and  Elbanna, A.E. (2024). Rupture Jumping and Seismic Complexity in Models of Earthquake Cycles for Fault Stepovers with Off-Fault Plasticity. https://doi.org/10.1785/0120230249 Bulletin of Seismological Society of America 
+Abdelmeguid, M.,  Zhao, C.,  Yalcinkaya, E.,  Gazetas, G.,  Elbanna, A.,  and Rosakis, A. (2023). Dynamics of episodic supershear in the 2023 M7.8 Kahramanmaraş/Pazarcik earthquake, revealed by near-field records and computational modeling.  Communications Earth and Environment, 456
+Hajarolasvadi, S., Celli, P., Kim, B., Elbanna, A. E., & Daraio, C. (2023). Experimental evidence of amplitude-dependent surface wave dispersion via nonlinear contact resonances. Applied Physics Letters, 123(8).
+Mia, M. S., Abdelmeguid, M., & Elbanna, A. E. (2023). The spectrum of fault slip in elastoplastic fault zones. Earth and Planetary Science Letters, 619, 118310.
+Erickson, B. A., Jiang, J., Lambert, V., Abdelmeguid, M., Almquist, M., Ampuero, J. P., ... & Yang, Y. (2023). Incorporating Full Elastodynamic Effects and Dipping Fault Geometries in Community Code Verification Exercises for Simulations of Earthquake Sequences and Aseismic Slip (SEAS). Bulletin of Seismological Society of America (In press)
+Fei, F., Mia, M. S., Elbanna, A. E., & Choo, J. (2022). A phase‐field model for quasi‐dynamic nucleation, growth, and propagation of rate‐and‐state faults. International Journal for Numerical and Analytical Methods in Geomechanics. Volume 47 Issue 2
+Abdelmeguid, M., & Elbanna, A. (2022). Modeling Sequences of Earthquakes and Aseismic Slip (SEAS) in Elasto‐plastic Fault Zones with A Hybrid Finite Element Spectral Boundary Integral scheme. Journal of Geophysical Research: Solid Earth, e2022JB024548.
+Abdelmeguid, M., & Elbanna, A. (2022). Sequences of seismic and aseismic slip on bimaterial faults show dominant rupture asymmetry and potential for elevated seismic hazard. Earth and Planetary Science Letters, 593, 117648.
+Faisal Amlani, Harsha S Bhat, Wim JF Simons, Alexandre Schubnel, Christophe Vigny, Ares J Rosakis, Joni Efendi, Ahmed Elbanna, Hasanuddin Z Abidin (2022), Supershear shock front contribution to the tsunami from the 2018 M w 7.5 Palu, Indonesia earthquake. Geophysical Journal International, 230(3), 2089-2097.
+Mia, M. S., Abdelmeguid, M., & Elbanna, A. E. (2022). Spatio‐Temporal Clustering of Seismicity Enabled by Off‐Fault Plasticity. Geophysical Research Letters, 49(8), e2021GL097601.
+Ranoa, D. R. E., Holland, R. L., Alnaji, F. G., Green, K. J., Wang, L., Fredrickson, R. L., ... & Burke, M. D. (2022). Mitigation of SARS-CoV-2 transmission at a large public university. Nature communications, 13(1), 1-16.
+Albertini, G., Elbanna, A. E., & Kammer, D. S. (2021). A three‐dimensional hybrid finite element—spectral boundary integral method for modeling earthquakes in complex unbounded domains. International Journal for Numerical Methods in Engineering, 122(23), 6905-6923.
+Tkachenko, A. V., Maslov, S., Wang, T., Elbana, A., Wong, G. N., & Goldenfeld, N. (2021). Stochastic social behavior coupled to COVID-19 dynamics leads to waves, plateaus, and an endemic state. Elife, 10, e68341.
+Ghareeb, A., & Elbanna, A. (2021). Modeling fracture in rate-dependent polymer networks: A quasicontinuum approach. Journal of Applied Mechanics, 88(11).
+Elbanna, A., Abdelmeguid, M., Ma, X., Amlani, F., Bhat, H. S., Synolakis, C., & Rosakis, A. J. (2021). Anatomy of strike-slip fault tsunami genesis. Proceedings of the National Academy of Sciences, 118(19).
+Tkachenko, A. V., Maslov, S., Elbanna, A., Wong, G. N., Weiner, Z. J., & Goldenfeld, N. (2021). Time-dependent heterogeneity leads to transient suppression of the COVID-19 epidemic, not herd immunity, PNAS April 27, 2021 118 (17) e2015972118; https://doi.org/10.1073/pnas.2015972118
+Wong, G. N., Weiner, Z. J., Tkachenko, A. V., Elbanna, A., Maslov, S., & Goldenfeld, N. (2020). Modeling COVID-19 dynamics in Illinois under nonpharmaceutical interventions. Physical Review X, 10(4), 041033.
+Hajarolasvadi, S., Elbanna, A. (2021). Dispersion properties and dynamics of ladder-like meta-chains. Extreme Mechanics Letters. Volume 43, February 2021, 101133
+Peetz, D., & Elbanna, A. (2020). On the use of multigrid preconditioners for topology optimization. Structural and Multidisciplinary Optimization, 1-19.
+Erickson, B. A., J. Jiang, M. Barall, N. Lapusta, E. M. Dunham, R. Harris, L. S. Abrahams, K. L. Allison, J.-P. Ampuero, S. Barbot, C. Cattania, A. Elbanna, Y. Fialko, B. Idini, J. E. Kozdon, V. Lambert, Y. Liu, Y. Luo, X. Ma, M. B. McKay, P. Segall, P. Shi, M. van den Ende, M. Wei, The community code verification exercise for simulating sequences of earthquakes and aseismic slip (SEAS), Seismological Research Letters (2020)91 (2A): 874–890.
+Nguyen C., Peetz D., Elbanna, A., and Jean M. Carlson (2019). Characterization of fracture in topology-optimized bioinspired networks. Physical Review E 100, 042402 – Published 2 October 2019
+Ghareeb, A., & Elbanna, A. (2020). An Adaptive Quasi-Continuum Approach for Modeling Fracture in Networked Materials: Application to Modeling of Polymer Networks. Journal of Mechanics and Physics of Solids. Volume 137, April 2020, 103819
+Abdelmeguid, M., Ma, X., & Elbanna, A. E. (2019). A Novel Hybrid Finite Element-Spectral Boundary Integral Scheme for Modeling Earthquake Cycles: Application to Rate and State Faults with Low-Velocity Zones. Journal of Geophysical Research.Volume124, Issue12, December 2019. Pages 12854-12881
+Ma X., and Elbanna A. E. (2019), Dynamic Rupture Propagation on Fault Planes with Explicit Representation of Short Branches. Earth and Planetary Science Letters, 523, 115702.
+Hajarolasvadi, S., & Elbanna, A. (2019). Dynamics of metamaterial beams consisting of periodically-coupled parallel flexural elements: A theoretical study. Journal of Physics D: Applied Physics, 52(31), 315101.
+Chen, Q., & Elbanna, A. (2019). On the duality of complex geometry and material heterogeneities in linear elastodynamics. International Journal of Solids and Structures. International Journal of Solids and Structures, 168, 203-210.
+Ghareeb, A., & Elbanna, A. (2019). Adhesion Asymmetry in Peeling of Thin Films with Homogeneous Material Properties: A Geometry-Inspired Design Paradigm. Journal of Applied Mechanics, 86(7), 071005.
+Mondal, A., Nguyen, C. Ma, X, Elbanna, A. & Carlson, J. (2019). Network models for characterization of trabecular bone. Physical Review E, 99(4), 042406.
+Ghareeb, A., & Elbanna, A. (2019). Extreme enhancement of interfacial adhesion by bulk patterning of sacrificial cuts. Extreme Mechanics Letters, 28, 22-30.
+Ma X., Hajarolasvadi S., Albertini G., Kammer D., & Elbanna A. E. (2018). A Hybrid Finite Element-Spectral Boundary Integral Approach: Applications to Dynamic Rupture Simulations in Unbounded Domains. Journal of Analytical and Numerical Methods in Geomechanics, Volume 43, Issue 1, Pages 317-338 https://doi.org/10.1002/nag.2865
+Ghareeb A., & Elbanna A. E. (2018), On the role of the plaque porous structure on Mussel adhesion: Implications for adhesion control using bulk patterning. Journal of Applied Mechanics 85(12):121003-121003-11. doi: 10.1115/1.4041223
+Ma, X., and Elbanna, A. E. (2018), Strain Localization in Dry Sheared Fault Gouge: A Compactivity based approach. Phys Rev E 98,022906
+Hyunh, P., Zhu, H., Chen, Q., & Elbanna, A. (2018). Data-Driven Estimation of Frequency Response from Ambient Synchrophasor Measurements. IEEE Transactions on Power Systems,  doi: 10.1109/TPWRS.2018.2832838
+Kothari K., Hu, Y., Gupta, S., and Elbanna A. E. (2017), Mechanical response of 2D polymer networks: role of topology, rate dependence, and damage accumulation. Journal of Applied Mechanics. J. Appl. Mech 85(3), 031008 (Jan 24, 2018) (11 pages) doi: 10.1115/1.4038883
+Lopez-Berganza, J. A., Song, R., Elbanna, A., & Espinosa-Marzal, R. M. (2017). Calcium carbonate with nanogranular microstructure yields enhanced toughness. Nanoscale, 9(43), 16689-16699.
+Chen Q., & Elbanna A. E., (2017) Emergent wave phenomena in coupled elastic bars: from extreme damping to realization of elastodynamic switchers. Nature Scientific Reports 7
+Hajarolasvadi S. & Elbanna A. E. (2017), A new hybrid numerical scheme for simulating fault ruptures with near-fault bulk heterogeneities. Geophysics Journal International, 211, 873–886.
+
+Kothari, K., and Elbanna, A. (2017), Localization and instability in sheared granular materials: Role of friction and vibration, Phys. Rev. E. [Accepted 11 January 2017]
+Chen, Q., & Elbanna, A. (2016), Modulating elastic band gap structure in layered soft composites using sacrificial interfaces, Journal of Applied Mechanics, 83(11), 111009[8 pages].
+Lieou, C. K., Elbanna, A. E., and Carlson, J. M. (2016), Dynamic friction in sheared fault gouge: implications of acoustic vibration on triggering and slow slip, Journal of Geophysical Research, Volume 121, Issue 3, 1483-1496 
+Yang, Z., Chen, Q., Elbanna, A. E., & Kim, S. (2016), Transfer printing enabled soft composite films for tunable surface topography, Extreme Mechanics Letters, 7, 145-153
+Ma X., & Elbanna, A. (2015), Effect of off-fault low-velocity elastic inclusions on supershear rupture dynamics, Geophys. J. Int. 203 (1): 664-677. doi: 10.1093/gji/ggv302
+Lieou, C. K., Elbanna, A. E., Langer, J. S., & Carlson, J. M. (2015), Stick-slip instabilities in sheared granular flow: The role of friction and acoustic vibrations, Phys. Rev. E, 92(2), 022209 [10 pages]
+Chen, Q., & Elbanna, A. (2015), Tension-induced tunable corrugation in two-phase soft composites: Mechanisms and implications, Extreme Mechanics Letters, 4, 26-37.
+Lieou CKC, Elbanna AE, and Carlson J. (2014), Grain fragmentation in sheared granular flow: weakening effects, energy dissipation, and strain localization, Phys. Rev. E 89, 022203 [14 pages]
+Lieou CKC, Elbanna AE, Langer JS, and Carlson JM (2014), Shear flow of angular grains: acoustic effects and non-monotonic rate dependence of volume, Phys. Rev. E 90, 032204 [12 pages]
+Elbanna AE, and Carlson JM (2014), A two-scale model for sheared fault gouge: Competition between macroscopic disorder and local viscoplasticity, Journal of Geophysical Research: Solid Earth, 119(6), 4841-4859 [18 pages]
+Wang, W., & Elbanna, A. (2014), Crack propagation in bone on the scale of mineralized collagen fibrils: role of polymers with sacrificial bonds and hidden length, Bone, 68, 20-31 [11 pages]
+Lieou CKC, Elbanna AE, and Carlson JM (2013), Sacrificial bonds and hidden length in biomaterials — a kinetic, constitutive description of strength and toughness in bone, Phys.  Rev. E 88, 012703 [10 pages].
+Elbanna AE, and Carlson JM (2013, Dynamics of Polymer Molecules with Sacrificial Bond and Hidden Length Systems: Towards a Physically-Based Mesoscopic Constitutive Law, PLoS ONE 8(4): e56118. doi:10.1371/journal.pone.0056118 [10 pages]
+PLoS ONE 8(4): e56118. doi:10.1371/journal.pone.0056118
+Elbanna A, and Heaton TH, (2012), A New Paradigm for Simulating Pulse-Like Ruptures: The Pulse Energy Equation, Geophysics Journal International, Volume 189, Issue 3, pages 1797–1806
+
+
+E. B. Mashaly, Safar S., & Elbanna, A. (2005). Parametric analysis and design of tapered haunched connections. Journal of Engineering and Applied Science 52(6), 1103-1122
+E. B. Mashaly, Safar S., & Elbanna, A. (2005). Finite element analysis of tapered haunched connections. Journal of Engineering and Applied Science 52(5), 921-940
+
+Articles in Conference Proceedings
+"Towards physics based seismic PRA." Ahmed Elbanna,Zahra Mohaghegh, Erbie Kee, Seyed Reihani, Reza Kazemi and Shawn Rodgers. Proceedings of 2013 ANS National Meeting, November 2013
+
+Abstracts (in print or accepted)
+"Size dependence of stress in materials with self-organized critical prestress" Heaton, T.H., A. E. Elbanna, and J. Marsden. AGU Fall Meeting, 2008 
+"Dynamics of Self-Healing Slip Pulses on Velocity-Weakening Interfaces: Formation, steady propagation and interaction with stress heterogeneity" Elbanna A. E., Lapusta N., and Heaton, T. H. AGU Fall Meeting, 2009
+"Size dependence of strength and a model reduction technique for frictional systems failing at multiple length scales."
+Elbanna A., Heaton T. H.
+Proceedings of the 16th National Congress on Theoretical and Applied Mechanics, Penn. State, June 2010 
+"Dynamics of self-healing slip pulses on frictional interfaces: Steady propagation, stability properties and interaction with stress heterogeneities" 
+Elbanna, A. E., Lapusta, N., and Heaton, T. H.
+Proceedings of the 16 th National Congress on Theoretical and Applied Mechanics, Penn State, June 2010 
+
+Professional Societies
+Member of Society of Engineering Sciences (2013-present)
+Member of American Physics Society (2013-present)
+Computational Mechanics Committee - EMI: Co-Chair (2024-present)
+Member of Engineering Mechanics Institute -ASCE (2013-present)
+Member of American Geophysics Union (2007-present)
+
+Service on Department Committees
+Member of Graduate Recruitment Weekend Committee (2022-present)
+Member of Structures Conference Organizing Committee (2022 - 2024)
+Chair of Structural Engineering Qualification Exam Committee (2015- 2019), (2021-2023)
+Graduate Admissions Committee : Member (2014-2015), Chair (2024-present)
+
+Service on Campus Committees
+Member of the Faculty Senate (2020-present)
+Computational Science and Engineering Program - Steering Committee Member (2017-present)
+
+Other Outside Service
+Co-Leader of the Computational Science Disciplinary Group within the Planning Committee of the Southern California Earthquake Center (SCEC) [2019 - present]
+
+Honors
+Donald Biggar Willet Faculty Fellow (2020)
+7th Arab American Frontiers of Science, Engineering, and Medicine - Invited Participant (2019)
+2019 Journal of Applied Mechanics Paper Award  (2019)
+National Science Foundation Faculty Early Career Award (2018)
+National Center for Super Computing Applications Fellowship (2015-2016)
+
+Teaching Honors
+Teachers ranked excellent by their students - CEE460 (Fall 2024)
+Teachers ranked excellent by their students - CEE460 (Fall 2021)
+Teachers ranked excellent by their students - CEE460 (Fall 2019)
+Teachers ranked excellent by their students - CEE470  (Fall 2018)
+
+Recent Courses TaughtCEE 460 - Steel Structures I
+CEE 572 - Earthquake Engineering
+CEE 575 (AE 521) - Fracture and Fatigue
+CEE 595 EWS - Energy Wtr Environment Sustain
+CEE 595 EWS - EWES Seminar
+

@@ -1,0 +1,123 @@
+
+
+
+ Abigail Wooldridge 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-8086
+arwool@illinois.edu
+209A Transportation Building
+
+
+For More Information
+Human Factors in Sociotechnical Systems Laboratory
+
+Education
+Ph.D., Industrial Engineering (Human Factors and Ergonomics, Minor: Mixed Methods in Field Research), University of Wisconsin-Madison, Madison, Wisconsin, 2018. Thesis: "Team Cognition Distributed in Spatio-Temporal Processes: A Macroergonomic Approach to Trauma Care." Advisor: Pascale Carayon
+
+M.S., Industrial and Systems Engineering (Human Factors and Ergonomics), University of Wisconsin-Madison, Madison, Wisconsin, 2013. Advisor: Pascale Carayon
+M.Eng. (with thesis), Summa Cum Laude, Industrial Engineering (Operations Research and Applied Statistics), University of Louisville, Louisville, Kentucky, 2012. Thesis: "Modeling the workflow of one primary care physician-nurse team." Advisors: Gail DePuy and Grady T. Holman
+B.S., Summa Cum Laude, Industrial Engineering, University of Louisville, Louisville, Kentucky, 2011
+
+BiographyProfessor Wooldridge's research addresses the design of complex sociotechnical systems, primarily in healthcare settings, using mixed methods approaches to improve outcomes. In healthcare, that means patient outcomes (e.g., patient safety, quality of care) as well as clinician outcomes (e.g., workload, burnout). She has conducted research focused on primary care, care coordination of patients with chronic conditions (hospital to community care transitions) and trauma care. Her dissertation, conducted in the context of a larger project developing health information technology to support teamwork and care transitions, took a macroergonomic approach to studying care transitions of trauma patients. She then examined on the handoff communication associated with those handoffs as instances of team cognition. Current projects include continuing to study care transitions; she plans to conduct observation studies of inpatient care transitions between hospital units as well as return to the community care setting by studying hospital discharge care transitions. Part of this work will explore the concept of the “patient journey,” i.e., spatio-temporal distribution of patients’ interactions with multiple care settings (e.g., hospitals, clinics, home, long-term care, etc.) over time. She plans to develop interventions, such as redesigned processes, new technologies, etc., to improve care transitions; this will involve participatory design processes and usability evaluations in her lab and/or simulated settings such as JUMP Simulation. A third area of research includes developing ways to measure team cognition, particular in care transitions. Key components of her research approach include engaging frontline workers (patients and their family as well as various healthcare professionals) and utilizing mixed methods, i.e., both qualitative and quantitative, research designs.Check out the Human Factors in Sociotechnical Systems Laboratory, directed by Dr. Wooldridge, website at https://hfss.ise.illinois.edu/contact-us/
+Academic Positions
+0% Faculty Affiliate, National Center for Supercomputing Applications, University of Illinois Urbana-Champaign, Urbana, Illinois, 2024 - Present
+
+Research Affiliate, Mayo Clinic, 2024 - Present
+OSF Faculty Fellow, Order of Saint Francis Healthcare System, 2024 - Present
+
+ISE Faculty Fellow, Department of Industrial and Enterprise Systems Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois, 2022 - Present
+
+Courtesy (0%) Appointment, Coordinated Science Laboratory, University of Illinois Urbana-Champaign, Urbana, Illinois, 2021 - Present
+
+Assistant Professor (0%), Department of Biomedical and Translational Sciences, Carle Illinois College of Medicine, Urbana, Illinois, 2020 - Present
+Courtesy (0%) Appointment, Computer Science, University of Illinois Urbana-Champaign, Urbana, Illinois, 2020 - Present
+
+Courtesy (0%) Appointment, School of Information Sciences, University of Illinois Urbana-Champaign, Urbana, Illinois, 2019 - Present
+
+Courtesy (0%) Appointment, Health and Kinesiology (previously Kinesiology and Community Health), University of Illinois Urbana-Champaign, Urbana, Illinois, 2019 - Present
+
+Affiliate Faculty (0%), Beckman Institute for Advanced Science and Technology, University of Illinois Urbana-Champaign, Urbana, Illinois, 2018-Present
+
+Assistant Professor, Department of Industrial and Enterprise Systems Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois, 2018 - Present
+
+
+Graduate Research OpportunitiesHuman factors is a diverse field, and much of the work we do requires knowledge from multiple disciplines. Therefore, Professor Wooldridge is interested in having students from various majors including industrial engineering, computer science, psychology, health sciences, community health, and related fields.
+A good starting point for all interested graduate students is to send an email to Professor Wooldridge that describes:
+
+Your previous research and/or work experience
+Why you specifically want to work with Professor Wooldridge
+How your research interests align with the Macroergonomics and Complex Systems Lab.
+
+Undergraduate Research OpportunitiesGetting involved in research is a great way to apply knowledge learned in class and enhance your education - it is also a great way to explore the idea of graduate school. Students can get involved in projects in various stages, through a variety of ways. Interested students should email Professor Wooldridge directly.
+Human factors is a diverse field, and much of the work we do requires knowledge from multiple disciplines. Therefore, Professor Wooldridge is interested in having students from various majors including industrial engineering, computer science, psychology, health sciences, community health, and related fields.
+Research Interests
+Patient journey
+Patient safety
+Care transitions
+Teams
+Team cognition
+Sociotechnical systems
+Macroergonomics
+Human factors and ergonomics
+
+
+Research Areas
+Design and Manufacturing
+Health Technology
+Social, Human, and Engineering Systems
+
+
+Books Edited or Co-Edited (Original Editions)
+Roscoe R. D., Chiou, E. & Wooldridge, A. R. (Eds.). Advancing Diversity, Inclusion and Social Justice through Human Factors. Boca Raton: CRC Press, https://doi.org/10.1201/9780429425905.  Note: Winner of the Choice Outstanding Academic Title 2020 Award; the Choice OAT Award represents the highest caliber of scholarly titles that have been reviewed by Choice and conveys the extraordinary recognition of the academic community.
+
+Chapters in Books
+Carayon, P., & Wooldridge, A. R. (2020). Improving Patient Safety in the Patient Journey: Contributions from Human Factors Engineering. In A. E. Smith (Ed.), Women in Industrial and Systems Engineering: Key Advances and Perspectives on Emerging Topics (pp. 275-299). Cham: Springer International Publishing
+Carayon, P., Kianfar, S., Li, Y., & Wooldridge, A. (2015). Organizational design: Macroergonomics as a foundation for human systems integration. In D. A. Boehm-Davis, F. T. Durso & J. D. Lee (Eds.), APA Handbook of Human Systems Integration (1 ed., pp. pp.573-588). Washington, D.C.: American Psychological Association.
+
+Selected Articles in Journals
+Hose, B.-Z., Hoonakker, P. L. T., Wooldridge, A. R., Ross, J., Kohler, J., Brazelton, T., Eithun, B., Kelly, M., Dean, S., Rusy, D., Gurses, A., Feckler, J. & Carayon, P. (2019) Physicians' Perceptions of the Problem List in Pediatric Trauma Care. Applied Clinical Informatics, 10(1):113-122. DOI: 10.1055/s-0039-1677737
+
+Carayon, P., Wooldridge, A. R., Hose, B.-Z., Salwei, M. & Benneyan, J. (2018). Challenges and opportunities for improving patient safety through human factors and systems engineering. Health Affairs, 37(11), 1862-1869. https://doi.org/10.1377/hlthaff.2018.0723
+
+Wooldridge, A. R., Carayon, P., Hoonakker, P. L. T., Hose, B.-Z., Ross, J., Kohler, J., Brazelton, T., Eithun, B., Kelly, M., Dean, S., Rusy, D., Durojaiye, A. & Gurses, A. P. (2019). Complexity of the Pediatric Trauma Care Process: Implications for Multi-Level Awareness. Cognition, Technology and Work, 21: 397-416. doi:10.1007/s10111-018-0520-0.
+Wooldridge, A. R., Carayon, P., Eagan, B., & Shaffer, D. W. (2018). Quantifying the Qualitative with Epistemic Network Analysis: A Human Factors Case Study of Task-Allocation Communication in a Primary Care Team. IISE Transactions on Healthcare Systems Engineering. DOI: 10.1080/24725579.2017.1418769
+Wooldridge, A. R., Carayon, P., Hundt, A. S., & Hoonakker, P. L. T. (2017). SEIPS-based process modeling in primary care. Applied Ergonomics, 60, 240-254. https://doi.org/10.1016/j.apergo.2016.11.010
+
+Carayon, P., Kianfar, S., Li, Y., Xie, A., Alyousef, B., & Wooldridge, A. (2015). A systematic review of mixed methods research on human factors and ergonomics in health care. Applied Ergonomics, 51, 291-321. https://doi.org/10.1016/j.apergo.2015.06.001
+
+
+Journal Editorships
+Ergonomics, Editorial Board Member, 2021 - Present
+
+Human Factors in Healthcare, Editorial Board Member (Research) 2021-2024
+
+
+Professional Societies
+Tau Beta Pi National Awards Committee Chair, 2011
+
+Alpha Pi Mu; Chapter Vice-President 2011-2012
+
+Honors
+University of Illinois System Presidential Medallion (2021)
+
+Research Honors
+The Robert L. Wears Early Career Award, Healthcare Technical Group, Human Factors and Ergonomics Society (2021)
+Choice Outstanding Academic Title (Choice OAT Award represents the highest caliber of scholarly titles that have been reviewed by Choice and conveys the extraordinary recognition of the academic community.)
+ (2020
+)
+
+Recent Courses TaughtIE 340 (PSYC 358) - Human Factors
+IE 441 - Work and Organization Design
+IE 498 AW (IE 598 AW) - Job and Organization Design
+IE 546 (EPSY 546) - Human Factors in HCES
+IE 590 - Industrial Engr. Grad Seminar
+IE 598 FHC - Field Research in Health Care
+SE 590 (IE 590) - Seminar
+

@@ -1,0 +1,166 @@
+
+
+
+Abhishek K. Umrawal he/him/his
+
+
+
+
+
+Teaching Assistant Professor
+
+
+
+aumrawal@illinois.edu
+3054 Electrical & Computer Eng Bldg
+
+
+For More Information
+Google Scholar
+
+LinkedIn
+
+
+Education
+Purdue University, Ph.D., Industrial Engineering
+
+Purdue University, MS, Economics
+
+Indian Institute of Technology (IIT) Kanpur, MS, Statistics
+
+
+Academic Positions
+Tch. Assistant Professor, Univ. of Illinois, Electrical and Computer Eng., Aug 2023 to Present
+
+Tch. Assistant Professor, Univ. of Illinois, Coordinated Science Lab., Oct 2024 to Present
+Visiting Lecturer, Univ. of Maryland, Computer Sci. and Electrical Eng., Aug 2022 to Jun 2022
+
+
+Resident Instruction
+ECE 120 Intro. to Computing, Fall 2024
+CS/ECE 374 Intro. to Algorithms and Models of Computation, Summer 2024
+CS/ECE 374 Intro. to Algorithms and Models of Computation, Spring 2024
+
+CS/ECE 374 Intro. to Algorithms and Models of Computation, Fall 2023
+
+
+Research Interests
+Artificial Intelligence (AI): Generative AI, Causal AI, and Trustworthy AI
+
+Machine Learning (ML): Statistical Learning and Reinforcement Learning
+
+Theory and Algorithms: Combinatorial Optimization, Approximation Algorithms, and Game Theory
+
+Applications: Social Networks, Product Recommendations, Conversational Systems, Responsible Text/Code Generation, Intelligent Transportation
+
+
+
+Research Areas
+Algorithms and computational complexity
+
+
+Research Topics
+Computational science and engineering
+Game theory
+Machine learning
+Network science and engineering
+
+Selected Articles in Journals
+Umrawal, A. K., Quinn, C. J., and Aggarwal, V.  (2023). A Community-Aware Framework for Social Influence Maximization. IEEE Trans. Emerg. Top. Comput. Intell. (TETCI).
+
+Agarwal, M., Aggarwal, V., Umrawal, A. K., and Quinn, C. J. (2022). Stochastic Top-k Subset Bandits with Linear Space and Non-Linear Feedback with Applications to Social Influence Maximization. ACM/IMS Trans. Data Sci. (TDS).
+
+Manchella, K., Umrawal, A. K., and Aggarwal, V. (2021). FlexPool: A Distributed Model-Free Deep Reinforcement Learning Algorithm for Shared Passengers and Goods Delivery. IEEE Trans. Intell. Transp. Syst. (T-ITS).
+
+
+Articles in Conference Proceedings
+Bhimaraju, A., Robson, E., Varshaney, P. L., and Umrawal, A. K. (2024). Fractional Budget Allocation for Influence Maximization under General Marketing Strategies. Int. Conf. Information and Knowledge Management (CIKM).
+
+Robson, E. W., Reddy, D., and Umrawal, A.K. (2024). CyNetDiff: A Python Library for Accelerated Implementation of Network Diffusion Models. Int. Conf. Very Large Data Bases (VLDB).
+
+Umrawal, A. K., Aggarwal, V., and Quinn, C. J. (2023). Fractional Budget Allocation for Influence Maximization. IEEE Conf. Decision and Control (CDC).
+
+Umrawal, A. K. (2023). Leveraging Causal Graphs for Blocking in Randomized Experiments. Conf. Causal Learning and Reasoning (CLeaR).
+
+Nie, G., Agarwal, M., Umrawal, A. K., Aggarwal, V., and Quinn, C. J. (2022). An Explore-then-Commit Algorithm for Submodular Maximization under Full-bandit Feedback. Conf. Uncertainty in Artificial Intelligence (UAI).
+
+Umrawal, A. K., Lane, S. P., and Hennes, E. P. (2022). GeneticPower: A Genetic Algorithm-Based Framework for Learning Statistical Power Manifold. Int. Meet. Psychometric Society (IMPS).
+
+Umrawal, A. K. and Aggarwal, V. (2022).  Leveraging the Community Structure of a Social Network for Maximizing the Spread of Influence. ACM SIGMETRICS/IFIP PERFORMANCE.
+
+Chen, J., Umrawal, A. K., Lan, T., and Aggarwal, V. (2021). DeepFreight: A Model-Free Deep-RL-Based Algorithm for Multi-Transfer Freight Delivery. Int. Conf. Automated Planning and Scheduling (ICAPS).
+
+Agarwal, M., Aggarwal, V., Quinn, C. J., and Umrawal, A. K. (2021). DART: aDaptive Accept RejecT Algorithm for Non-Linear Combinatorial Bandits. AAAI Conf. on Artificial Intelligence (AAAI).
+
+Agarwal, M., Aggarwal, V., Quinn, C. J., and Umrawal, A. K. (2021). Stochastic Top-k Subset Bandits with Linear Space and Non-Linear Feedback. Int. Conf. Algorithmic Learning Theory (ALT).
+
+
+Invited Lectures
+Fractional Budget Allocation for Influence Maximization
+Fractional Budget Allocation for Influence Maximization
+
+
+Other Scholarly Activities
+Session Chair for CIKM '25.
+Reviewer for ICLR '25, ICML '24, UAI '24, CLeaR '24, UAI '23, PAKDD '23, AAAI-GCLR '23, ECML '22, AISTATS '20.  
+
+Reviewer for IEEE-TNSE, IEEE T-ITS, Springer Transportation Research, IEEE/ACM TNET.
+
+
+Professional Societies
+Member of the IEEE Control Systems Society (CSS)
+Member of the IEEE Computational Intelligence Society (CIS)
+Member of the IEEE Computer Society (CS)
+Member of the Institute of Electrical and Electronics Engineers (IEEE)
+Member of the Association for Computing Machinery (ACM)
+
+Service on Department Committees
+Member of Scholarships, Student Awards, and Honors Committee, 2024 - 2025
+
+Member of Curriculum Committee, 2024 - 2025
+Member of Colloquium Committee, 2024 - 2025
+
+Teaching Honors
+Grad. Mentor Award by Vertically Integrated Projects, Purdue Univ., Apr 2020.
+
+Grad-Track Mentorship by the College of Eng., Purdue Univ., May 2022 & May 2023.
+
+
+Research Honors
+Research Travel Grant by IEEE Control Society, Sep 2023.
+
+Research Travel Grant by the College of Eng., Purdue Univ., Feb 2023.
+
+Bilsland Dissertation Fellowship by the Grad. School, Purdue Univ., May 2022.
+
+Trailblazers in Eng. Fellowship by the College of Eng., Purdue Univ., Oct 2021.
+
+Cert. of Exc. in Research by the Office of Interdiscip. Grad. Programs, Purdue Univ. May 2022.
+
+Research Travel Grant by ACM SIGMETRICS, May 2022.
+
+Research Travel Award for International Meeting by Psychometric Society, Apr 2022.
+
+Winner in Poster Competition by ABE Grad. Student Assoc., Purdue Univ., Mar 2022.
+
+Runner-up in Poster Competition by ABE Grad. Student Assoc., Purdue Univ., Feb 2021.
+
+OSG User School Travel Grant by Open Sci. Grid, Apr 2019 & Apr 2020.
+
+
+Improvement Activities
+Faculty Retreat: Opening the Classroom Door -- Creating a Culture of Dialogue and Reflection, March 2025, Univ. of Illinois Urbana-Champaign.
+
+Inclusive STEM Teaching Project (ISTP) Facilitator's Training, Jan. 2025, Univ. of Illinois Urbana-Champaign.
+
+The Narrative Engineer: Transforming Learning through Story Workshop, Aug. 2024, Georgia Inst. of Tech. and Emory Univ.
+Faculty Retreat: The Evolving, Engaged Learner in a Digital World, Feb. 2024, Univ. of Illinois Urbana-Champaign.
+
+Grainger Engineers Accelerating Research (GEAR) Scholar 2023-2024, The Grainger College of Eng., Univ. of Illinois Urbana-Champaign.
+
+Collins Scholar 2023-2024, The Grainger College of Eng., Univ. of Illinois Urbana-Champaign.
+
+
+Recent Courses TaughtCS 374 AL1 (CS 374 BL1, CS 374 BYA, CS 374 BYB, CS 374 BYC, CS 374 BYD, CS 374 BYE, CS 374 BYF, CS 374 CSP, CS 374 OL1, ECE 374 AL1, ECE 374 BL1, ECE 374 BLZ, ECE 374 BYA, ECE 374 BYB, ECE 374 BYC, ECE 374 BYD, ECE 374 BYE, ECE 374 BYF, ECE 374 CSP, ECE 374 OL1, ECE 374 ZJU) - Intro to Algs & Models of Comp
+ECE 120 - Introduction to Computing
+

@@ -1,0 +1,143 @@
+
+
+
+Abdussalam  Alawini 
+
+
+
+
+
+Teaching Associate Professor
+
+
+(217) 300-8116
+alawini@illinois.edu
+2237 Siebel Center for Comp Sci
+
+
+For More Information
+alawini.web.illinois.edu
+
+
+Education
+Ph.D. Computer Science, 2016, Portland State University
+MSc. Engineering and Technology Management, 2011, Portland State University
+MSc. Computer Science, 2011, Portland State University
+
+
+BiographyAbdussalam Alawini is a Teaching Associate Professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. His educational journey started with a bachelor's degree in Computer Science from the University of Tripoli in 2002. He then worked in the industry for over six years as a database administrator, lead software developer, and IT Manager. In 2011, he returned to academia and received a master's in Computer Science and another master's degree in Engineering and Technology Management from Portland State University. He then received a doctoral degree in Computer Science from Portland State in 2016. In his Ph.D., he built systems to help scientists manage their file-based datasets by predicting relationships among spreadsheet documents. Passionate about a career in academia, Dr. Alawini joined the University of Pennsylvania in 2016 as a postdoctoral researcher. As a postdoc, he developed data citation and data provenance systems for scientists. Dr. Alawini's research interests are broadly in databases, applied machine learning, and education. He is particularly interested in applying machine learning methods to improve classroom experience and education in general. He is also interested in building next-generation data management systems, including data provenance, citation, and scientific management systems.
+Academic Positions
+Teaching Associate Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 8/2023-present
+Teaching Assistant Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 8/2018-7/2023
+Postdoctoral Research Fellow, University of Pennsylvania, Computer and Information Science, 07/2016-07/2018
+Adjunct Faculty, Portland State University, Computer Science Department, 01/2016-06/2016
+
+Resident Instruction
+CS411 Database Systems
+
+Course Development
+Data Management in the Cloud (CS 498)
+
+Research Interests
+Scientific Data Management
+Data Provenance
+Database Systems
+Computer Science Education
+
+
+Research Areas
+Computers and Education
+Data and Information Systems
+
+
+Chapters in Books
+Alawini, A., Tanatanmatorn, N., Tucker, D., Tucker, K., & Daim, T. (2013). Technology adoption: building IT. In Research and Technology Management in the Electricity Industry (pp. 213-228). Springer, London. (S)
+Alawini, A., Borgan, M., Alharbi, M., & Zehr, W. (2011). Call Tracking-Technology Selection Model. (S)
+
+Articles in Conference Proceedings
+Sophia Yang ,Yongjoo Park, and Abdussalam Alawini. 2022. The Effects of Teaching Modality on Collaborative Learning: A Controlled Study. To appear in the 2022 IEEE Frontiers in Education Conference (FIE 2022).
+Abdussalam Alawini, Peilin Rao, Leyao Zhou, Lujia Kang, and Ping-Che Ho. 2022. Teaching Data Models with TriQL. In 1st International Workshop on Data Systems Education (DataEd '22). Association for Computing Machinery, New York, NY, USA, 16â€“21. https://doi.org/10.1145/3531072.3535320
+Sophia Yang, Geoffrey L. Herman, and Abdussalam Alawini. 2022. Analyzing Student SQL Solutions via Hierarchical Clustering and Sequence Alignment Scores. In 1st International Workshop on Data Systems Education (DataEd '22). Association for Computing Machinery, New York, NY, USA, 10–15. https://doi.org/10.1145/3531072.3535319
+M. Weston, H. Sun, G. L. Herman, H. Benotman and A. Alawini, "Echelon: An AI Tool for Clustering Student-Written SQL Queries," 2021 IEEE Frontiers in Education Conference (FIE), 2021, pp. 1-8, doi: 10.1109/FIE49875.2021.9637203.
+Mei Chen, Seth Poulsen, Ridha Alkhabaz, and Abdussalam Alawini. 2021. A Quantitative Analysis of Student Solutions to Graph Database Problems. Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 1. Association for Computing Machinery, New York, NY, USA, 283–289. DOI:https://doi.org/10.1145/3430665.3456314
+Ridha Alkhabaz, Seth Poulsen, Mei Chen, and Abdussalam Alawini. 2021. Insights from Student Solutions to MongoDB Homework Problems. Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 1. Association for Computing Machinery, New York, NY, USA, 276–282. DOI:https://doi.org/10.1145/3430665.3456308
+Sophia Yang, Ziyuan Wei, Geoffrey L. Herman, and Abdussalam Alawini. 2021. Analyzing Patterns in Student SQL Solutions via Levenshtein Edit Distance. In Proceedings of the Eighth ACM Conference on Learning @ Scale (L@S '21). Association for Computing Machinery, New York, NY, USA, 323–326. DOI:https://doi.org/10.1145/3430895.3460979
+Alawini, A.,  Rao, P.,  Zhou, L.,  Kang, L., & HO, P. (2021, April), Work-In-Progress: TriQL: A tool for learning relational, graph and document-oriented database programming. Paper presented at 2021 Illinois-Indiana Regional Conference, Virtual. 10.18260/1-2--38288
+Mei Chen, Seth Poulsen, Ridha Alkhabaz,  and Abdussalam Alawini. 2021. A Quantitative Analysis of Student Solutions to Graph Database Queries. Proceedings of the 52nd ACM Technical Symposium on Computer Science Education. Association for Computing Machinery, New York, NY, USA, 1385. DOI:https://doi.org/10.1145/3408877.3439700
+ALSaad, Fareedah; Reichel, Thomas; Zeng, Yuchen, and Alawini, Abdussalam
+International Educational Data Mining Society, Paper presented at the International Conference on Educational Data Mining (EDM) (14th, Online, Jun 29-Jul 2, 2021)
+Seth Poulsen, Liia Butler, Abdussalam Alawini, Geoffrey L Herman. (2020). Insights from Student Solutions to SQL Homework Problems. Proceedings of the 2020 ACM Conference on Innovation and Technology in Computer Science Education.
+F ALSaad, A Alawini. (2020). Unsupervised Approach for Modeling Content Structures of MOOCs.  Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020)
+Yinjun Wu, Abdussalam Alawini, Daniel Deutch, Tova Milo, Susan B. Davidson. (2019). The 45th International Conference on Very Large Data Base. VLDB 2019 (LA, USA 2019).
+Zheng, N., Alawini, A., Ives, Z. (2019). Extending Fine-Grained Provenance to ETL Tasks. The 35th International Conference on Data Engineering (ICDE 2019,
+China).
+Alawini, A., Chen, L., Davidson, S., Fisher, S., & Kim, J. (2018, July). Discovering Similar Workflows via Provenance Clustering: A Case Study. In International Provenance and Annotation Workshop (pp. 115-127). Springer, Cham.
+Wu, Y., Alawini, A., Davidson, S. B., & Silvello, G. (2018, May). Data Citation: Giving Credit Where Credit is Due. In Proceedings of the 2018 International Conference on Management of Data (pp. 99-114). ACM.
+Alawini, A., Davidson, S. B., Silvello, G., Tannen, V., & Wu, Y. (2018). Data Citation: A New Provenance Challenge. IEEE Data Eng. Bull., 41(1), 27-38.
+Xu, J., Zhang, W., Alawini, A., & Tannen, V. (2018). Provenance Analysis for Missing Answers and Integrity Repairs. Data Engineering, 39.
+Alawini, A., Davidson, S. B., Hu, W., & Wu, Y. (2017). Automating data citation in CiteDB. Proceedings of the VLDB Endowment, 10(12), 1881-1884.
+Alawini, A., Chen, L., Davidson, S. B., Da Silva, N. P., & Silvello, G. (2017, June). Automating data citation: the eagle-i experience. In Digital Libraries (JCDL), 2017 ACM/IEEE Joint Conference on (pp. 1-10). IEEE.
+Alawini, A., Maier, D., Tufte, K., Howe, B., & Nandikur, R. (2015, June). Towards automated prediction of relationships among scientific datasets. In Proceedings of the 27th International Conference on Scientific and Statistical Database Management (p. 35). ACM. 
+Alawini, A., Maier, D., Tufte, K., & Howe, B. (2014, June). Helping scientists reconnect their datasets. In Proceedings of the 26th International Conference on Scientific and Statistical Database Management (p. 29). ACM. 
+
+Journal Editorships
+The Journal of Information Systems (2016)
+
+Conferences Organized or Chaired
+Chair of the 2022 Illinois Computer Science Teaching Workshop
+Proceedings Co-Chair, SIGMOD 2020
+
+Service on Department Committees
+Member of the Instructional Developers Allocation Committee, 2022-2023
+Co-Chair of the Instructional Faculty Recruiting Committee, 2022-2023
+Member of the Broadening Participation in Computing Committee, 2021-2022
+Academic Appeals Committee, 2019-2020
+Member of the Online Education Committee, 2019-2020 and 2020-2021
+Member of the Instructional Faculty Recruiting Committee, 2018-2019,2019-2020 and 2021-2022
+
+Service on College Committees
+A3E Education Innovation Fellow 
+
+Other Outside Service
+PC Member: DataEd 2022 - International workshop on data systems education: bridging education practice with education research
+PC Members: SIGCSE TS 2021 - 52nd ACM Technical Symposium on Computer Science Education
+PC Member: ITiCSE 2021 - Innovation and Technology in Computer Science Education
+Academic Programs External Review Committee, SUNY Morrisville, 2020
+PC Member: SIGCSE 2020 - 51st ACM Technical Symposium on Computer Science Education
+PC Member: ITiCSE 2020 - 25th Annual Conference on Innovation and Technology in Computer Science Education
+
+Honors
+A3E Education Innovation Fellow (2022)
+
+Teaching Honors
+Campus Award for Excellence in Undergraduate Teaching (4/2024)
+COVID-19
+WALL OF RECOGNITION IN ENGINEERING (04/2021)
+TEACHERS RANKED AS EXCELLENT(Ranked outstanding in CS 411: Database Systems AND in CS 498: Data Management in the Cloud)
+ (Spring 2021
+)
+TEACHERS RANKED AS EXCELLENT 
+ (Summer 2021
+)
+TEACHERS RANKED AS EXCELLENT
+ (Spring 2020
+)
+TEACHERS RANKED AS EXCELLENT
+ (Fall 2019
+)
+TEACHERS RANKED AS EXCELLENT
+ (Summer 2019
+)
+TEACHERS RANKED AS EXCELLENT
+ (Spring 2019
+)
+
+Research Honors
+2nd Place in the 2021 ACM SIGCSE Undergraduate Student Research Competition (Awarded to my student Mei Chen) (2021)
+
+Public Service Honors
+Portland State President’s Award for University Service. (2015)
+
+Recent Courses TaughtCS 411 - Database Systems
+CS 498 AB3 (CS 498 AB4, CS 498 ABU, CS 498 CSP, CS 498 DC3, CS 498 DCG, CS 498 DCU, CS 498 MC3, CS 498 MCS) - Data Management in the Cloud
+
