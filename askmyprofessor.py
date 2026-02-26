@@ -1,6 +1,5 @@
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 from llama_index.core.settings import Settings
-from llama_index.llms.gemini import Gemini
 from llama_index.embeddings.google_genai import GoogleGenAIEmbedding
 from llama_index.core import StorageContext, load_index_from_storage
 from llama_index.llms.google_genai import GoogleGenAI
@@ -8,19 +7,22 @@ from llama_index.llms.google_genai import GoogleGenAI
 
 import os
 
-GOOGLE_API_KEY = ""  # add your GOOGLE API key here
-os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyDEylsUWBxRbX_6YjyRwZtwxzl7Hj_lH5o")
+if GOOGLE_API_KEY:
+    os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
+else:
+    raise ValueError("GOOGLE_API_KEY is not set.")
 
 
 Settings.llm  = GoogleGenAI(
     model="models/gemini-2.5-flash",
-    # api_key="some key",  # uses GOOGLE_API_KEY env var by default
+    api_key=GOOGLE_API_KEY,
 )
 
 #  Make sure to run pip install llama-index-embeddings-gemini
 
 Settings.embed_model = GoogleGenAIEmbedding(
-    model="text-embedding-004",
+    model_name="models/gemini-embedding-001",
     api_key=GOOGLE_API_KEY
 )
 
@@ -31,8 +33,9 @@ Settings.embed_model = GoogleGenAIEmbedding(
 
 
 # rebuild storage context
-storage_context = StorageContext.from_defaults(persist_dir="prof_embeddings")
+storage_context = StorageContext.from_defaults(persist_dir="prof_embeddings_demo")
 
 # load index
 index = load_index_from_storage(storage_context)
+
 
